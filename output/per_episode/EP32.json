@@ -1,0 +1,185 @@
+{
+ "episode": "32",
+ "promos": [
+  {
+   "episode": 32,
+   "start": "02:01.80",
+   "end": "02:34.38",
+   "duration_s": 32.58,
+   "score": 90.13,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.819,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'Why?!' lands on the very first frame",
+   "cliffhanger": "Ends on a hard cut to black right after: Extreme close-up of Juliana's wide, unblinking blue eye. The intense, ",
+   "why": "Works because: instant pay-off in frame 1; driven by cut to black + score swells to a cliff + emotional break; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CATHERINE Why?!",
+   "cliffhanger_source": "CAMERA Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron poker radiates inches from her cornea, holding on the heart-stopping cliffhanger as the frame cuts to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron "
+    },
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron "
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "close",
+     "beat": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters fr"
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"...but you will never have the courage to earn what you demand from everyone else.\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Low-angle tracking shot of the red-hot branding tip trailing across the wet dungeon floor, steaming."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"You may have the title you have always wanted...\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine in",
+   "episode_duration_s": 154.38,
+   "global_rank": 4,
+   "post_first": true,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 32,
+   "start": "00:23.80",
+   "end": "00:49.00",
+   "duration_s": 25.2,
+   "score": 88.78,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.839,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'What?' lands on the very first frame",
+   "cliffhanger": "Cuts on Catherine's unanswered 'A disgraced woman?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CATHERINE What?",
+   "cliffhanger_source": "CATHERINE A disgraced woman?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What?\""
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"You may destroy the book...\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Wide shot of the wet dungeon floor, guards stationed by the heavy iron doorway in the background as "
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"You may destroy the book...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Catherine leaning down aggressively into Juliana's space, trembling with offended rage."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine in",
+   "episode_duration_s": 154.38,
+   "global_rank": 8,
+   "post_first": true,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 32,
+   "start": "00:58.20",
+   "end": "01:19.40",
+   "duration_s": 21.2,
+   "score": 81.44,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.697,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Juliana's 'He wanted a woman who looked beautiful beside his wealth.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Catherine's unanswered 'Your soldier?'",
+   "why": "Works because: driven by an unanswered question + emotional break + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA He wanted a woman who looked beautiful beside his wealth.",
+   "cliffhanger_source": "CATHERINE Your soldier?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Your soldier?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Extreme close-up of Juliana's expressive blue eyes and tear-stained cheek."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Extreme close-up of Juliana's expressive blue eyes and tear-stained cheek."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine in",
+   "episode_duration_s": 154.38,
+   "global_rank": 74,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  }
+ ]
+}

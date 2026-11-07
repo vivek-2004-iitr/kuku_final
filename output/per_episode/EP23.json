@@ -1,0 +1,181 @@
+{
+ "episode": "23",
+ "promos": [
+  {
+   "episode": 23,
+   "start": "01:13.80",
+   "end": "02:11.50",
+   "duration_s": 57.7,
+   "score": 85.95,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.61,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'What are you saying?' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inwar",
+   "why": "Works because: instant pay-off in frame 1; driven by score swells to a cliff + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "PRUDENCE What are you saying?",
+   "cliffhanger_source": "CAMERA Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inward into the room\u2014cutting to an intense, heart-stopping cliffhanger.",
+   "cues": [
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inwar"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What are you saying?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Someone is poisoning her.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being p",
+   "episode_duration_s": 131.5,
+   "global_rank": 37,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 23,
+   "start": "00:16.80",
+   "end": "01:15.80",
+   "duration_s": 59.0,
+   "score": 80.74,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.662,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Prudence's 'Weeks.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Prudence's unanswered 'What are you saying?'",
+   "why": "Works because: driven by emotional break + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "PRUDENCE Weeks.",
+   "cliffhanger_source": "PRUDENCE What are you saying?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"What is it?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parch"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being p",
+   "episode_duration_s": 131.5,
+   "global_rank": 80,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 23,
+   "start": "00:01.80",
+   "end": "00:24.00",
+   "duration_s": 22.2,
+   "score": 46.61,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.643,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Prudence's 'Juliana, we cannot stay for long. Someone will come.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parch",
+   "why": "Works because: driven by rising tension; readable without prior context",
+   "hook_source": "PRUDENCE Juliana, we cannot stay for long. Someone will come.",
+   "cliffhanger_source": "CAMERA High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parched lips.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"How long has she been like this?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Medium shot of Lady Juliana gently lifting the frail, trembling hands of the Dowager Duchess resting"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Medium close-up of Prudence holding a brass candlestick with trembling hands, glancing nervously tow"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being p",
+   "episode_duration_s": 131.5,
+   "global_rank": 139,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 4,
+    "settings": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "episode": "10",
+ "promos": [
+  {
+   "episode": 10,
+   "start": "00:09.15",
+   "end": "00:55.20",
+   "duration_s": 46.05,
+   "score": 85.56,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.678,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'There is blood running down your arm.' lands on the very first frame",
+   "cliffhanger": "Cuts on Alexander's unanswered 'Not much.'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA There is blood running down your arm.",
+   "cliffhanger_source": "ALEXANDER Not much.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Does it hurt?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspo",
+   "episode_duration_s": 94.0,
+   "global_rank": 40,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 13,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 10,
+   "start": "00:47.80",
+   "end": "01:08.80",
+   "duration_s": 21.0,
+   "score": 75.67,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.521,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Alexander's 'It is over.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up of Alexander, his voice deep and laden with restrained emotion.",
+   "why": "Works because: cut lands before the reveal, so viewers must press play",
+   "hook_source": "ALEXANDER It is over.",
+   "cliffhanger_source": "CAMERA Close-up of Alexander, his voice deep and laden with restrained emotion.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Does it hurt?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspo",
+   "episode_duration_s": 94.0,
+   "global_rank": 110,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 10,
+   "start": "01:03.90",
+   "end": "01:25.90",
+   "duration_s": 22.0,
+   "score": 51.5,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.55,
+   "per_ep_rank": 3,
+   "hook": "Hard stop-hook: 'Why do you look at me like that?' lands on the very first frame",
+   "cliffhanger": "Cuts on Alexander's unanswered 'Your touch is the only medicine that has ever eased my pain.'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question",
+   "hook_source": "JULIANA Why do you look at me like that?",
+   "cliffhanger_source": "ALEXANDER Your touch is the only medicine that has ever eased my pain.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Why do you look at me like that?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspo",
+   "episode_duration_s": 94.0,
+   "global_rank": 132,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  }
+ ]
+}

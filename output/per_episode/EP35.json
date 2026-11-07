@@ -1,0 +1,149 @@
+{
+ "episode": "35",
+ "promos": [
+  {
+   "episode": 35,
+   "start": "01:29.80",
+   "end": "01:50.00",
+   "duration_s": 20.2,
+   "score": 87.2,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.76,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'A traitor?' lands on the very first frame",
+   "cliffhanger": "Cuts on Alexander's unanswered 'I was shot. Left for dead.'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + emotional break + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ALEXANDER'S MOTHER A traitor?",
+   "cliffhanger_source": "ALEXANDER I was shot. Left for dead.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"A traitor?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "close",
+     "beat": "Close-up of his mother clutching at her throat, tears glistening in her eyes."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"A traitor?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Close-up of his mother clutching at her throat, tears glistening in her eyes."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites wit",
+   "episode_duration_s": 157.5,
+   "global_rank": 16,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 35,
+   "start": "02:06.00",
+   "end": "02:30.50",
+   "duration_s": 24.5,
+   "score": 84.0,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.6,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Alexander's 'Because someone wanted you to believe I was dead.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill.",
+   "why": "Works because: driven by a big reveal / secret; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ALEXANDER Because someone wanted you to believe I was dead.",
+   "cliffhanger_source": "CAMERA Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill.",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Because someone wanted you to believe I was dead.\""
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Who?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites wit",
+   "episode_duration_s": 157.5,
+   "global_rank": 52,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 35,
+   "start": "00:37.00",
+   "end": "01:14.00",
+   "duration_s": 37.0,
+   "score": 80.45,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.76,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Alexander'S Mother's 'Alexander!' in the first 3 seconds",
+   "cliffhanger": "Cuts on Alexander'S Mother's unanswered 'Then how did you survive?'",
+   "why": "Works because: cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ALEXANDER'S MOTHER Alexander!",
+   "cliffhanger_source": "ALEXANDER'S MOTHER Then how did you survive?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Mother?\""
+    },
+    {
+     "name": "sudden movement",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls "
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites wit",
+   "episode_duration_s": 157.5,
+   "global_rank": 83,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 9,
+    "settings": 1
+   }
+  }
+ ]
+}

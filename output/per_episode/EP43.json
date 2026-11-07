@@ -1,0 +1,179 @@
+{
+ "episode": "43",
+ "promos": [
+  {
+   "episode": 43,
+   "start": "01:11.40",
+   "end": "01:46.20",
+   "duration_s": 34.8,
+   "score": 86.48,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.724,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Blond Nobleman's \"I didn't!\" in the first 3 seconds",
+   "cliffhanger": "Cuts on Catherine's unanswered 'My Lord?'",
+   "why": "Works because: driven by a big reveal / secret + an unanswered question + a trailing-off line; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "BLOND NOBLEMAN I didn't!",
+   "cliffhanger_source": "CATHERINE My Lord?",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"And when you believed I was dead...\""
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"My Lord?\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"And when you believed I was dead...\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Extreme close-up on the Crown Official's gloved thumb cracking the red wax seal open."
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Low shot following Alexander's heavy boots stepping steadily up the stone steps toward the altar."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert a",
+   "episode_duration_s": 114.96,
+   "global_rank": 27,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 43,
+   "start": "00:02.40",
+   "end": "00:35.00",
+   "duration_s": 32.6,
+   "score": 83.21,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.85,
+   "standalone_score": 0.648,
+   "per_ep_rank": 2,
+   "hook": "Opens mid-action: Rupert lunges forward, his facial features contorting in venomous desperation.",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up on Lord Sterling looking sideways, his face pale with rising dread.",
+   "why": "Works because: driven by a big reveal / secret + shock reaction + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ACTION Rupert lunges forward, his facial features contorting in venomous desperation.",
+   "cliffhanger_source": "CAMERA Close-up on Lord Sterling looking sideways, his face pale with rising dread.",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"This man is an imposter! Arrest him!\""
+    },
+    {
+     "name": "shock reaction",
+     "weight": 0.85,
+     "zone": "close",
+     "beat": "Close-up on Lord Sterling looking sideways, his face pale with rising dread."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Your Duke!\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Rupert lunges forward, his facial features contorting in venomous desperation."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert a",
+   "episode_duration_s": 114.96,
+   "global_rank": 60,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 43,
+   "start": "00:35.20",
+   "end": "01:15.20",
+   "duration_s": 40.0,
+   "score": 70.07,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.55,
+   "standalone_score": 0.516,
+   "per_ep_rank": 3,
+   "hook": "Hard stop-hook: The Crown Official receives the dossier solemnly with both hands.",
+   "cliffhanger": "Cuts on Alexander's unanswered 'And when you believed I was dead...'",
+   "why": "Works because: instant pay-off in frame 1; driven by a big reveal / secret + high-stakes fate",
+   "hook_source": "ACTION The Crown Official receives the dossier solemnly with both hands.",
+   "cliffhanger_source": "ALEXANDER And when you believed I was dead...",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"And when you believed I was dead...\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Frontal medium shot of the Crown Official turning a page as the congregation listens in breathless s"
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "The Crown Official receives the dossier solemnly with both hands."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"No...\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert a",
+   "episode_duration_s": 114.96,
+   "global_rank": 120,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 12,
+    "settings": 1
+   }
+  }
+ ]
+}

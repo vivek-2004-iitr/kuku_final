@@ -1,0 +1,163 @@
+{
+ "episode": "49",
+ "promos": [
+  {
+   "episode": 49,
+   "start": "01:44.20",
+   "end": "02:24.75",
+   "duration_s": 40.55,
+   "score": 87.51,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.688,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Father Thomas's 'If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?' in the first 3 seconds",
+   "cliffhanger": "Ends on a hard cut to black right after: Extreme close-up as Father Thomas gently raises his other hand and cup",
+   "why": "Works because: driven by cut to black + a big reveal / secret + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "FATHER THOMAS If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?",
+   "cliffhanger_source": "CAMERA Extreme close-up as Father Thomas gently raises his other hand and cups Catherine's cheek tenderly, her hand resting against his chest as she leans into his touch before cutting to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Extreme close-up as Father Thomas gently raises his other hand and cups Catherine's cheek tenderly, "
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me "
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me "
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me "
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Split focus close-up between Father Thomas's intense gaze and Catherine leaning in close, whispering"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract ins",
+   "episode_duration_s": 144.75,
+   "global_rank": 13,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 49,
+   "start": "01:12.60",
+   "end": "01:34.00",
+   "duration_s": 21.4,
+   "score": 83.58,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.579,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'What is it you actually need from me, Catherine? Say it plainly, for once.' lands on the very first frame",
+   "cliffhanger": "Cuts on Father Thomas's unanswered 'You want eyes inside the council chamber itself?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play",
+   "hook_source": "FATHER THOMAS What is it you actually need from me, Catherine? Say it plainly, for once.",
+   "cliffhanger_source": "FATHER THOMAS You want eyes inside the council chamber itself?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"You want eyes inside the council chamber itself?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract ins",
+   "episode_duration_s": 144.75,
+   "global_rank": 56,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 4,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 49,
+   "start": "00:09.00",
+   "end": "00:46.50",
+   "duration_s": 37.5,
+   "score": 57.2,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.835,
+   "per_ep_rank": 3,
+   "hook": "Hard stop-hook: \"Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables.\" lands on the very first frame",
+   "cliffhanger": "Cuts on Catherine's unanswered \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\"",
+   "why": "Works because: instant pay-off in frame 1; driven by wedding stakes; readable without prior context",
+   "hook_source": "FATHER THOMAS Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables.",
+   "cliffhanger_source": "CATHERINE It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"You didn't need them the first time, either. I just prefer my secrets thorough.\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintl"
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"Good. That's what I pay her for.\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "\"Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the s"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract ins",
+   "episode_duration_s": 144.75,
+   "global_rank": 129,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  }
+ ]
+}

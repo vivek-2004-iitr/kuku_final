@@ -1,0 +1,209 @@
+{
+ "episode": "28",
+ "promos": [
+  {
+   "episode": 28,
+   "start": "00:45.60",
+   "end": "01:18.90",
+   "duration_s": 33.3,
+   "score": 91.22,
+   "hook_score": 1.0,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.736,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Dowager Duchess's 'They have been\u2014' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up of Juliana crying out in agony, writhing in the guard's iron grip.",
+   "why": "Works because: driven by physical confrontation + emotional break + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "DOWAGER DUCHESS They have been\u2014",
+   "cliffhanger_source": "CAMERA Close-up of Juliana crying out in agony, writhing in the guard's iron grip.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behi"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"You see?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "The Duchess collapses back onto the pillows, coughing violently and clutching her chest."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"How convenient that the only person who can prove the poison exists...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Close-up of Juliana crying out in agony, writhing in the guard's iron grip."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother",
+   "episode_duration_s": 138.5,
+   "global_rank": 2,
+   "post_first": true,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 16,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 28,
+   "start": "01:35.20",
+   "end": "02:18.50",
+   "duration_s": 43.3,
+   "score": 88.57,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.741,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: Juliana gasps in horror, realizing her secret identity has been laid bare.",
+   "cliffhanger": "Ends on a hard cut to black right after: Extreme close-up of Juliana's wide, trembling eyes as the guard wrench",
+   "why": "Works because: instant pay-off in frame 1; driven by cut to black + a big reveal / secret + emotional break; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ACTION Juliana gasps in horror, realizing her secret identity has been laid bare.",
+   "cliffhanger_source": "CAMERA Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark "
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"And this?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Juliana gasps in horror, realizing her secret identity has been laid bare."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"The disgraced daughter...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark "
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother",
+   "episode_duration_s": 138.5,
+   "global_rank": 9,
+   "post_first": true,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 15,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 28,
+   "start": "00:18.90",
+   "end": "00:56.60",
+   "duration_s": 37.7,
+   "score": 87.12,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.756,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Blond Nobleman's 'A clever story, girl.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Blond Nobleman's unanswered 'The poison has clearly damaged her mind.'",
+   "why": "Works because: driven by a big reveal / secret + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "BLOND NOBLEMAN A clever story, girl.",
+   "cliffhanger_source": "BLOND NOBLEMAN The poison has clearly damaged her mind.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "mid",
+     "beat": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behi"
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"But the guards know how to extract the truth.\""
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"You see?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Juliana, tears of relief welling in her eyes."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Medium close-up of the Dowager Duchess stirring against her pillows, lifting her trembling head with"
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Rupert...\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother",
+   "episode_duration_s": 138.5,
+   "global_rank": 17,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 16,
+    "settings": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "episode": "39",
+ "promos": [
+  {
+   "episode": 39,
+   "start": "01:15.80",
+   "end": "01:38.41",
+   "duration_s": 22.61,
+   "score": 77.11,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.8,
+   "standalone_score": 0.768,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Loyalist's 'Your Grace.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute ",
+   "why": "Works because: cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LOYALIST Your Grace.",
+   "cliffhanger_source": "CAMERA Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction.",
+   "cues": [
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "\"Secure the chapel.\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal rega",
+   "episode_duration_s": 98.41,
+   "global_rank": 104,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 39,
+   "start": "00:41.00",
+   "end": "01:22.20",
+   "duration_s": 41.2,
+   "score": 45.31,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.578,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Loyalist Fighter's 'Sleep.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Alexander's unanswered 'Secure the chapel.'",
+   "why": "Works because: driven by wedding stakes",
+   "hook_source": "LOYALIST FIGHTER Sleep.",
+   "cliffhanger_source": "ALEXANDER Secure the chapel.",
+   "cues": [
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Tell the Duke.\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "close",
+     "beat": "\"Secure the chapel.\""
+    }
+   ],
+   "flags": [
+    "spans 3 settings \u2014 check standalone clarity"
+   ],
+   "copy_engine": "rules",
+   "episode_logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal rega",
+   "episode_duration_s": 98.41,
+   "global_rank": 140,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved",
+     "spans 3 settings \u2014 check standalone clarity"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 8,
+    "settings": 3
+   }
+  },
+  {
+   "episode": 39,
+   "start": "00:18.30",
+   "end": "00:42.20",
+   "duration_s": 23.9,
+   "score": 42.75,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.45,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Loyalist Scout's 'Six at the front.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Loyalist Fighter's unanswered 'Sleep.'",
+   "why": "Works because: sustained tension with a high-stakes payoff",
+   "hook_source": "LOYALIST SCOUT Six at the front.",
+   "cliffhanger_source": "LOYALIST FIGHTER Sleep.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"And the east gate?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal rega",
+   "episode_duration_s": 98.41,
+   "global_rank": 144,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 7,
+    "settings": 2
+   }
+  }
+ ]
+}

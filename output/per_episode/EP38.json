@@ -1,0 +1,173 @@
+{
+ "episode": "38",
+ "promos": [
+  {
+   "episode": 38,
+   "start": "00:16.00",
+   "end": "00:50.50",
+   "duration_s": 34.5,
+   "score": 86.0,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.7,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'Why?' lands on the very first frame",
+   "cliffhanger": "Cuts on Juliana's unanswered 'What if I never see you again?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Why?",
+   "cliffhanger_source": "JULIANA What if I never see you again?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Why?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Juliana clutches the bread tightly with both hands, tears welling in her eyes."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Alexander...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf "
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal",
+   "episode_duration_s": 87.91,
+   "global_rank": 36,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 38,
+   "start": "00:45.50",
+   "end": "01:27.91",
+   "duration_s": 42.41,
+   "score": 85.67,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.596,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'What if I die here?' lands on the very first frame",
+   "cliffhanger": "Ends on a hard cut to black right after: Dramatic cut to black.",
+   "why": "Works because: instant pay-off in frame 1; driven by cut to black + an unanswered question + emotional break; cut lands before the reveal, so viewers must press play",
+   "hook_source": "JULIANA What if I die here?",
+   "cliffhanger_source": "CAMERA Dramatic cut to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Dramatic cut to black."
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What if I die here?\""
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"I will not betray him.\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"And if I have only one thing left to give...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal",
+   "episode_duration_s": 87.91,
+   "global_rank": 38,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 13,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 38,
+   "start": "00:00.00",
+   "end": "00:20.30",
+   "duration_s": 20.3,
+   "score": 64.59,
+   "hook_score": 0.55,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.417,
+   "per_ep_rank": 3,
+   "hook": "Opens mid-action: Juliana sits motionless against the cold masonry, weak and visibly drained from starvation, her eyes",
+   "cliffhanger": "Cuts on Guard's unanswered 'Because no one should die hungry.'",
+   "why": "Works because: driven by an unanswered question + high-stakes fate; cut lands before the reveal, so viewers must press play",
+   "hook_source": "ACTION Juliana sits motionless against the cold masonry, weak and visibly drained from starvation, her eyes cast downward.",
+   "cliffhanger_source": "GUARD Because no one should die hungry.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Why?\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "Medium profile shot of Juliana slumped on the damp stone floor of her dark dungeon cell, her wrists "
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal",
+   "episode_duration_s": 87.91,
+   "global_rank": 126,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 3,
+    "settings": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "episode": "34",
+ "promos": [
+  {
+   "episode": 34,
+   "start": "00:58.20",
+   "end": "01:21.00",
+   "duration_s": 22.8,
+   "score": 86.2,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.71,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'What did you see?' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse.",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JUDGE What did you see?",
+   "cliffhanger_source": "CAMERA Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What did you see?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even ",
+   "episode_duration_s": 190.0,
+   "global_rank": 32,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 34,
+   "start": "01:53.20",
+   "end": "02:14.60",
+   "duration_s": 21.4,
+   "score": 86.2,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.71,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'What were their illnesses?' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Medium close-up of Lady Juliana shaking her head slightly, truth ringing in her voice.",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LADY JULIANA What were their illnesses?",
+   "cliffhanger_source": "CAMERA Medium close-up of Lady Juliana shaking her head slightly, truth ringing in her voice.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What were their illnesses?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Lady Juliana gritting her teeth in fierce defiance."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even ",
+   "episode_duration_s": 190.0,
+   "global_rank": 33,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 34,
+   "start": "00:41.00",
+   "end": "01:06.70",
+   "duration_s": 25.7,
+   "score": 81.2,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.685,
+   "per_ep_rank": 3,
+   "hook": "Opens mid-action: Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in dee",
+   "cliffhanger": "Cuts on Judge's unanswered 'Did she draw strange markings?'",
+   "why": "Works because: driven by emotional break + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ACTION Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.",
+   "cliffhanger_source": "JUDGE Did she draw strange markings?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Did you witness Lady Juliana perform these treatments?\""
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Tell the truth.\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Medium close-up of Prudence looking up with tears streaming down her pale face."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in dee"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even ",
+   "episode_duration_s": 190.0,
+   "global_rank": 76,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "episode": "14",
+ "promos": [
+  {
+   "episode": 14,
+   "start": "00:00.50",
+   "end": "00:25.00",
+   "duration_s": 24.5,
+   "score": 84.2,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.61,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revea",
+   "cliffhanger": "Cuts on Alexander's unanswered 'What have they done to you?'",
+   "why": "Works because: instant pay-off in frame 1; driven by a big reveal / secret + an unanswered question + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ACTION Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.",
+   "cliffhanger_source": "ALEXANDER What have they done to you?",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emer"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"What have they done to you?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes g"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one w",
+   "episode_duration_s": 87.63,
+   "global_rank": 50,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 4,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 14,
+   "start": "00:29.80",
+   "end": "01:27.63",
+   "duration_s": 57.83,
+   "score": 80.32,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.666,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Juliana's 'Take me home.' in the first 3 seconds",
+   "cliffhanger": "Ends on a hard cut to black right after: Ominous, resonating low bass boom swelling into sudden silence as the ",
+   "why": "Works because: driven by cut to black; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Take me home.",
+   "cliffhanger_source": "SOUND FX Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black."
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up on Juliana smiling faintly through her tears, shaking her head."
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"You should never have had to bleed for me.\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Tight close-up of Alexander holding Juliana against his bearded cheek, kissing the crown of her head"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Extreme close-up on Juliana's glistening eyes and trembling lips, firelight reflecting softly across"
+    }
+   ],
+   "flags": [
+    "spans 3 settings \u2014 check standalone clarity"
+   ],
+   "copy_engine": "rules",
+   "episode_logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one w",
+   "episode_duration_s": 87.63,
+   "global_rank": 85,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "spans 3 settings \u2014 check standalone clarity"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 9,
+    "settings": 3
+   }
+  }
+ ]
+}

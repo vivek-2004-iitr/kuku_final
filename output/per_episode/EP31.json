@@ -1,0 +1,191 @@
+{
+ "episode": "31",
+ "promos": [
+  {
+   "episode": 31,
+   "start": "00:43.20",
+   "end": "01:20.20",
+   "duration_s": 37.0,
+   "score": 87.36,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.768,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'No. You became a disgrace when Gerald left you standing at the altar.' lands on the very first frame",
+   "cliffhanger": "Cuts on Catherine's unanswered 'You call that marriage?'",
+   "why": "Works because: instant pay-off in frame 1; driven by high-stakes fate + wedding stakes; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CATHERINE No. You became a disgrace when Gerald left you standing at the altar.",
+   "cliffhanger_source": "CATHERINE You call that marriage?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Do you remember?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Faint sizzling and hissing as ambient moisture touches the scalding iron tip."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "Medium shot of Juliana sitting erect against the dungeon wall, her hands resting calmly in her lap."
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "\"No. You became a disgrace when Gerald left you standing at the altar.\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological to",
+   "episode_duration_s": 160.0,
+   "global_rank": 14,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 12,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 31,
+   "start": "01:58.40",
+   "end": "02:40.00",
+   "duration_s": 41.6,
+   "score": 86.85,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.655,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'Then why are you so desperate to make me kneel?' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker",
+   "why": "Works because: instant pay-off in frame 1; driven by score swells to a cliff + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Then why are you so desperate to make me kneel?",
+   "cliffhanger_source": "CAMERA Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+   "cues": [
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Then why are you so desperate to make me kneel?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Tears spill rapidly down Juliana's cheeks as she reaches forward in vain, restrained by her heavy ir"
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing "
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Catherine completely losing control, her aristocratic facade shattering into sheer rage."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological to",
+   "episode_duration_s": 160.0,
+   "global_rank": 21,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 31,
+   "start": "00:00.00",
+   "end": "00:50.80",
+   "duration_s": 50.8,
+   "score": 81.88,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.719,
+   "per_ep_rank": 3,
+   "hook": "Opens mid-action: Heavy iron latch sliding back with an ominous, echoing metallic clang, followed by the deep groaning",
+   "cliffhanger": "Cuts on Catherine's unanswered 'Do you remember?'",
+   "why": "Works because: driven by an unanswered question + shock reaction + emotional break; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "SOUND FX Heavy iron latch sliding back with an ominous, echoing metallic clang, followed by the deep groaning creak of the cell door swinging inward.",
+   "cliffhanger_source": "CATHERINE Do you remember?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Do you remember?\""
+    },
+    {
+     "name": "shock reaction",
+     "weight": 0.85,
+     "zone": "open",
+     "beat": "Medium close-up of Juliana huddled against the stone wall, bound in heavy iron chains, shivering in "
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Medium close-up of Juliana huddled against the stone wall, bound in heavy iron chains, shivering in "
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Chained in a dungeon like a common criminal.\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "close",
+     "beat": "\"No. You became a disgrace when Gerald left you standing at the altar.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Heavy iron latch sliding back with an ominous, echoing metallic clang, followed by the deep groaning"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological to",
+   "episode_duration_s": 160.0,
+   "global_rank": 72,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 12,
+    "settings": 1
+   }
+  }
+ ]
+}

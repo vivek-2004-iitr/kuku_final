@@ -1,0 +1,185 @@
+{
+ "episode": "21",
+ "promos": [
+  {
+   "episode": 21,
+   "start": "01:12.00",
+   "end": "01:54.00",
+   "duration_s": 42.0,
+   "score": 82.97,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.686,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Prudence's 'Oh, thank God! His chest is quiet! The rattling has stopped!' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Slow push-in on Lady Juliana staring down at the ancient pages, her expression filled with profound ",
+   "why": "Works because: driven by score swells to a cliff + a big reveal / secret + emotional break; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "PRUDENCE Oh, thank God! His chest is quiet! The rattling has stopped!",
+   "cliffhanger_source": "CAMERA Slow push-in on Lady Juliana staring down at the ancient pages, her expression filled with profound realization and growing resolve as dramatic strings swell to a gripping cliffhanger.",
+   "cues": [
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Slow push-in on Lady Juliana staring down at the ancient pages, her expression filled with profound "
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"What do you mean? Is someone ill? The Dowager Duchess?\""
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "Lady Juliana sits motionless at the rustic wooden table, her bandaged hands holding open her late mo"
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Close-up of Prudence covering her mouth in overwhelmed relief, tears streaming down her face."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"You saved him. The grand doctors left him to choke, but you...\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"What do you mean? Is someone ill? The Dowager Duchess?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly w",
+   "episode_duration_s": 114.0,
+   "global_rank": 62,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 21,
+   "start": "00:35.90",
+   "end": "01:23.00",
+   "duration_s": 47.1,
+   "score": 75.03,
+   "hook_score": 1.0,
+   "cliffhanger_score": 0.55,
+   "standalone_score": 0.539,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Lady Juliana's 'Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Prudence's unanswered 'You saved him. The grand doctors left him to choke, but you...'",
+   "why": "Works because: driven by physical confrontation + a trailing-off line",
+   "hook_source": "LADY JULIANA Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now.",
+   "cliffhanger_source": "PRUDENCE You saved him. The grand doctors left him to choke, but you...",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "Medium shot framing the barn entrance as Lady Juliana lifts Prudence up, grabs her book, and leads t"
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Prudence covering her mouth in overwhelmed relief, tears streaming down her face."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"You saved him. The grand doctors left him to choke, but you...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Prudence covering her mouth in overwhelmed relief, tears streaming down her face."
+    }
+   ],
+   "flags": [
+    "spans 3 settings \u2014 check standalone clarity"
+   ],
+   "copy_engine": "rules",
+   "episode_logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly w",
+   "episode_duration_s": 114.0,
+   "global_rank": 114,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "spans 3 settings \u2014 check standalone clarity"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 12,
+    "settings": 3
+   }
+  },
+  {
+   "episode": 21,
+   "start": "00:08.50",
+   "end": "00:30.80",
+   "duration_s": 22.3,
+   "score": 50.5,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.725,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Lady Juliana's 'Oh dear. Breathe. Tell me what has happened.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'Our cottage is ashes. I have nothing left but this coltsfoot.'",
+   "why": "Works because: driven by emotional break + rising tension; readable without prior context",
+   "hook_source": "LADY JULIANA Oh dear. Breathe. Tell me what has happened.",
+   "cliffhanger_source": "LADY JULIANA Our cottage is ashes. I have nothing left but this coltsfoot.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Tell me what the apothecary said. Did he not give you medicine?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Close-up of Prudence weeping, clutching her hands to her chest in agony."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Close-up of Prudence weeping, clutching her hands to her chest in agony."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly w",
+   "episode_duration_s": 114.0,
+   "global_rank": 134,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  }
+ ]
+}

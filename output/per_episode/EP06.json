@@ -1,0 +1,111 @@
+{
+ "episode": "6",
+ "promos": [
+  {
+   "episode": 6,
+   "start": "01:01.90",
+   "end": "01:55.00",
+   "duration_s": 53.1,
+   "score": 84.59,
+   "hook_score": 1.0,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.317,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Juliana's 'But not because of you.' in the first 3 seconds",
+   "cliffhanger": "Ends on a hard cut to black right after: Close-up on the crackling flames and glowing embers of the fireplace, ",
+   "why": "Works because: driven by physical confrontation + cut to black; cut lands before the reveal, so viewers must press play",
+   "hook_source": "JULIANA But not because of you.",
+   "cliffhanger_source": "CAMERA Close-up on the crackling flames and glowing embers of the fireplace, slowly fading to black as the music swells warmly.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the dam"
+    },
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Close-up on the crackling flames and glowing embers of the fireplace, slowly fading to black as the "
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Medium close-up of the Mysterious Bearded Man gesturing faintly to the modest room."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"And yet...\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+   "episode_duration_s": 115.0,
+   "global_rank": 46,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 12,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 6,
+   "start": "00:10.10",
+   "end": "01:00.00",
+   "duration_s": 49.9,
+   "score": 75.66,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.408,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Juliana's 'No.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Mysterious Bearded Man's unanswered 'You are not disappointed?'",
+   "why": "Works because: driven by emotional break; cut lands before the reveal, so viewers must press play",
+   "hook_source": "JULIANA No.",
+   "cliffhanger_source": "MYSTERIOUS BEARDED MAN You are not disappointed?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"That is it?\""
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "Juliana removes her dark cloak, revealing her damp white bridal dress underneath."
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Juliana looks upward into the canopy, gathering herself with a faint nod."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+   "episode_duration_s": 115.0,
+   "global_rank": 111,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 14,
+    "settings": 2
+   }
+  }
+ ]
+}

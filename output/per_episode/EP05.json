@@ -1,0 +1,175 @@
+{
+ "episode": "5",
+ "promos": [
+  {
+   "episode": 5,
+   "start": "00:55.50",
+   "end": "01:50.50",
+   "duration_s": 55.0,
+   "score": 94.71,
+   "hook_score": 1.0,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.823,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Juliana's \"Barbara, don't!\" in the first 3 seconds",
+   "cliffhanger": "Ends on a hard cut to black right after: Rain gently pattering on cobblestones beneath a sweeping, melancholic ",
+   "why": "Works because: driven by physical confrontation + cut to black; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Barbara, don't!",
+   "cliffhanger_source": "SOUND FX Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement."
+    },
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly f"
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks."
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"Choose your next words carefully.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, bu",
+   "episode_duration_s": 110.5,
+   "global_rank": 1,
+   "post_first": true,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 13,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 5,
+   "start": "00:06.80",
+   "end": "00:45.80",
+   "duration_s": 39.0,
+   "score": 69.0,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.55,
+   "standalone_score": 0.8,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Lord Ashcroft's 'You will not leave this church carrying the Ashcroft name.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Lady Ashcroft's unanswered 'And the ledger...'",
+   "why": "Works because: driven by a trailing-off line; readable without prior context",
+   "hook_source": "LORD ASHCROFT You will not leave this church carrying the Ashcroft name.",
+   "cliffhanger_source": "LADY ASHCROFT And the ledger...",
+   "cues": [
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"And the ledger...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Medium shot of Lord Ashcroft standing rigid outside the chapel archway, unforgiving and unyielding."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against h"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, bu",
+   "episode_duration_s": 110.5,
+   "global_rank": 121,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 12,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 5,
+   "start": "00:37.60",
+   "end": "01:06.50",
+   "duration_s": 28.9,
+   "score": 48.19,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.722,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Juliana's 'No, Father. You chose that long before today.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.",
+   "why": "Works because: driven by emotional break + rising tension; readable without prior context",
+   "hook_source": "JULIANA No, Father. You chose that long before today.",
+   "cliffhanger_source": "CAMERA Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "mid",
+     "beat": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement."
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "close",
+     "beat": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"And the ledger...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, bu",
+   "episode_duration_s": 110.5,
+   "global_rank": 136,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 9,
+    "settings": 1
+   }
+  }
+ ]
+}

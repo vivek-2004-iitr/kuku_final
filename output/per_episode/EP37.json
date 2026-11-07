@@ -1,0 +1,161 @@
+{
+ "episode": "37",
+ "promos": [
+  {
+   "episode": 37,
+   "start": "01:57.20",
+   "end": "02:36.47",
+   "duration_s": 39.27,
+   "score": 83.2,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.81,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Nobleman's \"Do you think she'll actually be executed?\" in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tensi",
+   "why": "Works because: driven by score swells to a cliff + an unanswered question + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "NOBLEMAN Do you think she'll actually be executed?",
+   "cliffhanger_source": "SOUND FX A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting before fading out.",
+   "cues": [
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tensi"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Do you think she'll actually be executed?\""
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"Instead she married a nobody, played healer to peasants, challenged people above her. And now the w"
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"Do you think she'll actually be executed?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Tight close-up on Clarissa's face glowing in the firelight. Her lips curl into a merciless smile as "
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dunge",
+   "episode_duration_s": 156.47,
+   "global_rank": 61,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 37,
+   "start": "00:56.20",
+   "end": "01:22.50",
+   "duration_s": 26.3,
+   "score": 82.7,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.535,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'What?' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up on Clarissa taking the letter back into her gloved fingers, her eyes gleaming with aristocr",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play",
+   "hook_source": "NOBLEMAN What?",
+   "cliffhanger_source": "CAMERA Close-up on Clarissa taking the letter back into her gloved fingers, her eyes gleaming with aristocratic cruelty.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What?\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"A public execution after a wedding.\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dunge",
+   "episode_duration_s": 156.47,
+   "global_rank": 65,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 37,
+   "start": "00:37.00",
+   "end": "00:57.20",
+   "duration_s": 20.2,
+   "score": 80.61,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.768,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Butler's 'Lady Clarissa, an invitation from Ashbridge Manor.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Nobleman's unanswered 'What?'",
+   "why": "Works because: driven by an unanswered question + a trailing-off line + wedding stakes; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "BUTLER Lady Clarissa, an invitation from Ashbridge Manor.",
+   "cliffhanger_source": "NOBLEMAN What?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"What?\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"And after the ceremony...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "close",
+     "beat": "\"And after the ceremony...\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dunge",
+   "episode_duration_s": 156.47,
+   "global_rank": 81,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  }
+ ]
+}

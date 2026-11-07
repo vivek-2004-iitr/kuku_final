@@ -1,0 +1,117 @@
+{
+ "episode": "44",
+ "promos": [
+  {
+   "episode": 44,
+   "start": "00:03.30",
+   "end": "00:31.00",
+   "duration_s": 27.7,
+   "score": 84.0,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.6,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'Lord Henry Sterling, you are under arrest by order of the Crown.' lands on the very first frame",
+   "cliffhanger": "Cuts on Catherine's unanswered 'Do you know what this did to me?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + emotional break + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "POLICE CONSTABLE Lord Henry Sterling, you are under arrest by order of the Crown.",
+   "cliffhanger_source": "CATHERINE Do you know what this did to me?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Do you know what this did to me?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "close",
+     "beat": "Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"Lord Henry Sterling, you are under arrest by order of the Crown.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up on Lord Sterling's trembling, indignant face."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his",
+   "episode_duration_s": 70.5,
+   "global_rank": 53,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 44,
+   "start": "00:25.20",
+   "end": "01:03.40",
+   "duration_s": 38.2,
+   "score": 81.44,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.697,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Catherine's 'Alexander... I thought you had died.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Alexander's unanswered 'Did you?'",
+   "why": "Works because: driven by emotional break + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CATHERINE Alexander... I thought you had died.",
+   "cliffhanger_source": "ALEXANDER Did you?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Do you know what this did to me?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Medium shot on Alexander standing tall in his ducal coat, his gaze utterly detached."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his",
+   "episode_duration_s": 70.5,
+   "global_rank": 75,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 14,
+    "settings": 1
+   }
+  }
+ ]
+}

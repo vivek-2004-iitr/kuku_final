@@ -1,0 +1,131 @@
+{
+ "episode": "8",
+ "promos": [
+  {
+   "episode": 8,
+   "start": "00:15.10",
+   "end": "00:42.00",
+   "duration_s": 26.9,
+   "score": 76.05,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.54,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Juliana's 'How do you know that?' in the first 3 seconds",
+   "cliffhanger": "Cuts on Juliana's unanswered 'You prefer looking like a forest hermit?'",
+   "why": "Works because: driven by an unanswered question; cut lands before the reveal, so viewers must press play",
+   "hook_source": "JULIANA How do you know that?",
+   "cliffhanger_source": "JULIANA You prefer looking like a forest hermit?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"How do you know that?\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Your hair and beard...\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering",
+   "episode_duration_s": 78.0,
+   "global_rank": 108,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 8,
+   "start": "00:35.80",
+   "end": "01:02.80",
+   "duration_s": 27.0,
+   "score": 76.05,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.54,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Juliana's 'Not yet?' in the first 3 seconds",
+   "cliffhanger": "Cuts on Juliana's unanswered 'And the scars... were they from the war?'",
+   "why": "Works because: driven by an unanswered question; cut lands before the reveal, so viewers must press play",
+   "hook_source": "JULIANA Not yet?",
+   "cliffhanger_source": "JULIANA And the scars... were they from the war?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Not yet?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Alexander lowering his head slightly with a faint smirk."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering",
+   "episode_duration_s": 78.0,
+   "global_rank": 109,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 8,
+   "start": "00:53.30",
+   "end": "01:18.00",
+   "duration_s": 24.7,
+   "score": 72.51,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.8,
+   "standalone_score": 0.538,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Alexander's 'That one grows near the northern stream. Crushed leaves ease swelling.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Extreme close-up of Juliana's radiant face illuminated by firelight, a peaceful, contented smile spr",
+   "why": "Works because: cut lands before the reveal, so viewers must press play",
+   "hook_source": "ALEXANDER That one grows near the northern stream. Crushed leaves ease swelling.",
+   "cliffhanger_source": "CAMERA Extreme close-up of Juliana's radiant face illuminated by firelight, a peaceful, contented smile spreading across her lips as she looks at him until the shot gently fades out.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"And the scars... were they from the war?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering",
+   "episode_duration_s": 78.0,
+   "global_rank": 119,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  }
+ ]
+}

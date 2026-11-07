@@ -1,0 +1,163 @@
+{
+ "episode": "19",
+ "promos": [
+  {
+   "episode": 19,
+   "start": "00:26.40",
+   "end": "01:25.50",
+   "duration_s": 59.1,
+   "score": 80.46,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.648,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Elder Villager's 'You saved mine, too.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Informant's unanswered 'And when we have the proof?'",
+   "why": "Works because: driven by an unanswered question + emotional break + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ELDER VILLAGER You saved mine, too.",
+   "cliffhanger_source": "INFORMANT And when we have the proof?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"And when we have the proof?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"And Lady Catherine, she behaves as though she is already the future duchess.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a",
+   "episode_duration_s": 119.63,
+   "global_rank": 82,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 17,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 19,
+   "start": "01:05.10",
+   "end": "01:59.63",
+   "duration_s": 54.53,
+   "score": 74.01,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.8,
+   "standalone_score": 0.613,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Informant's 'But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his ",
+   "why": "Works because: cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "INFORMANT But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned.",
+   "cliffhanger_source": "CAMERA Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"And when we have the proof?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat sea"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a",
+   "episode_duration_s": 119.63,
+   "global_rank": 117,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 12,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 19,
+   "start": "00:05.10",
+   "end": "00:29.80",
+   "duration_s": 24.7,
+   "score": 54.96,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.723,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Juliana's \"My mother's book almost burned with it.\" in the first 3 seconds",
+   "cliffhanger": "Cuts on Juliana's unanswered 'Thank you.'",
+   "why": "Works because: driven by a big reveal / secret + emotional break + rising tension; readable without prior context",
+   "hook_source": "JULIANA My mother's book almost burned with it.",
+   "cliffhanger_source": "JULIANA Thank you.",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "Juliana tenderly lifts a scorched corner of parchment, revealing the surviving botanical drawing of "
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "close",
+     "beat": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a",
+   "episode_duration_s": 119.63,
+   "global_rank": 131,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "episode": "50",
+ "promos": [
+  {
+   "episode": 50,
+   "start": "00:12.00",
+   "end": "00:59.20",
+   "duration_s": 47.2,
+   "score": 83.4,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.57,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Catherine's \"Then let's stop pretending this was only appetite.\" in the first 3 seconds",
+   "cliffhanger": "Cuts on Father Thomas's unanswered 'Perhaps I like rooms no one uses.'",
+   "why": "Works because: driven by a big reveal / secret + an unanswered question; cut lands before the reveal, so viewers must press play",
+   "hook_source": "CATHERINE Then let's stop pretending this was only appetite.",
+   "cliffhanger_source": "FATHER THOMAS Perhaps I like rooms no one uses.",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Then let's stop pretending this was only appetite.\""
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"In another room no one uses?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control\u2014unaware that Agnes ha",
+   "episode_duration_s": 80.0,
+   "global_rank": 58,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 50,
+   "start": "00:49.80",
+   "end": "01:13.50",
+   "duration_s": 23.7,
+   "score": 42.81,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.453,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Father Thomas's \"I've told myself that since the dawn in your bedchamber, and here we are again.\" in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, hold",
+   "why": "Works because: sustained tension with a high-stakes payoff",
+   "hook_source": "FATHER THOMAS I've told myself that since the dawn in your bedchamber, and here we are again.",
+   "cliffhanger_source": "CAMERA Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, holding a black iron lantern.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"In another room no one uses?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control\u2014unaware that Agnes ha",
+   "episode_duration_s": 80.0,
+   "global_rank": 143,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 4,
+    "settings": 2
+   }
+  }
+ ]
+}

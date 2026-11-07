@@ -1,0 +1,149 @@
+{
+ "episode": "40",
+ "promos": [
+  {
+   "episode": 40,
+   "start": "00:23.20",
+   "end": "00:45.20",
+   "duration_s": 22.0,
+   "score": 79.41,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.708,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Lady Harrington's 'Imagine Juliana seeing this.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Lord Harrington's unanswered 'Of the wedding?'",
+   "why": "Works because: driven by an unanswered question + wedding stakes; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LADY HARRINGTON Imagine Juliana seeing this.",
+   "cliffhanger_source": "LORD HARRINGTON Of the wedding?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Of the wedding?\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "close",
+     "beat": "Medium profile shot of the couple seated in the pew, looking toward the grand altar."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's exec",
+   "episode_duration_s": 110.08,
+   "global_rank": 92,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 40,
+   "start": "00:40.50",
+   "end": "01:06.80",
+   "duration_s": 26.3,
+   "score": 78.77,
+   "hook_score": 0.765,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.642,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: Medium profile shot of the couple seated in the pew, looking toward the grand al",
+   "cliffhanger": "Cuts on Elder Nobleman's unanswered 'All entrances are covered?'",
+   "why": "Works because: instant pay-off in frame 1; driven by wedding stakes; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CAMERA Medium profile shot of the couple seated in the pew, looking toward the grand altar.",
+   "cliffhanger_source": "ELDER NOBLEMAN All entrances are covered?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Of the wedding?\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "Medium profile shot of the couple seated in the pew, looking toward the grand altar."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's exec",
+   "episode_duration_s": 110.08,
+   "global_rank": 99,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 40,
+   "start": "01:05.00",
+   "end": "01:50.08",
+   "duration_s": 45.08,
+   "score": 74.37,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.8,
+   "standalone_score": 0.631,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Elder Nobleman's 'All entrances are covered?' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Tight two-shot profile of Catherine and Rupert clasping hands intimately, gazing into each other's e",
+   "why": "Works because: driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ELDER NOBLEMAN All entrances are covered?",
+   "cliffhanger_source": "CAMERA Tight two-shot profile of Catherine and Rupert clasping hands intimately, gazing into each other's eyes with shared aristocratic vanity.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"All entrances are covered?\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"By sunset, Ashburgh will have its new Duke and Duchess.\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Over-the-shoulder shot from behind the elder nobleman, his gloved hand resting on the stone balustra"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Tight, menacing close-up on the elder nobleman's face as a cold, sinister smile spreads across his l"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's exec",
+   "episode_duration_s": 110.08,
+   "global_rank": 116,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 2
+   }
+  }
+ ]
+}

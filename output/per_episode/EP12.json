@@ -1,0 +1,161 @@
+{
+ "episode": "12",
+ "promos": [
+  {
+   "episode": 12,
+   "start": "00:42.20",
+   "end": "01:27.21",
+   "duration_s": 45.01,
+   "score": 82.08,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.8,
+   "standalone_score": 0.679,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'What do you want?' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial de",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA What do you want?",
+   "cliffhanger_source": "ACTION Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What do you want?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Juliana, her eyes glistening with unshed tears, her hand gripping the fabric over her he"
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns ha"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Extreme close-up of Clarissa's mouth leaning directly into Juliana's ear, whispering venomously."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp b",
+   "episode_duration_s": 87.21,
+   "global_rank": 69,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 12,
+   "start": "00:23.70",
+   "end": "00:46.60",
+   "duration_s": 22.9,
+   "score": 79.01,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.688,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Gerald's 'Then perhaps your wife should explain why it was found in your coat.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.",
+   "why": "Works because: cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "GERALD Then perhaps your wife should explain why it was found in your coat.",
+   "cliffhanger_source": "CAMERA Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"...still defending your broken scrap of a man?\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Oh, dear sister...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Medium shot of Clarissa gliding past Gerald, a venomous, amused smile playing upon her lips."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp b",
+   "episode_duration_s": 87.21,
+   "global_rank": 96,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 12,
+   "start": "00:05.70",
+   "end": "00:32.40",
+   "duration_s": 26.7,
+   "score": 76.69,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.572,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Juliana's 'No! That watch was not in his coat!' in the first 3 seconds",
+   "cliffhanger": "Cuts on Clarissa (O.S.) (Continuing Taunt)'s unanswered '...still defending your broken scrap of a man?'",
+   "why": "Works because: driven by an unanswered question + a trailing-off line; cut lands before the reveal, so viewers must press play",
+   "hook_source": "JULIANA No! That watch was not in his coat!",
+   "cliffhanger_source": "CLARISSA (O.S.) (CONTINUING TAUNT) ...still defending your broken scrap of a man?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"...still defending your broken scrap of a man?\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"Oh, dear sister...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Alexander, his scarred brow furrowed in dark, quiet defiance."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp b",
+   "episode_duration_s": 87.21,
+   "global_rank": 107,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  }
+ ]
+}

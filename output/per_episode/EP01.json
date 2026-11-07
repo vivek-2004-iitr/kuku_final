@@ -1,0 +1,179 @@
+{
+ "episode": "1",
+ "promos": [
+  {
+   "episode": 1,
+   "start": "00:35.40",
+   "end": "01:14.30",
+   "duration_s": 38.9,
+   "score": 86.86,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.743,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'Why are you holding her hand?' lands on the very first frame",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'How long?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LADY JULIANA Why are you holding her hand?",
+   "cliffhanger_source": "LADY JULIANA How long?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Why are you holding her hand?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up on Juliana as tears spill over her eyelashes."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"No...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her si"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up on Juliana as tears spill over her eyelashes."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fianc\u00e9 Gerald abandons her at the altar fo",
+   "episode_duration_s": 138.0,
+   "global_rank": 20,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 13,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 1,
+   "start": "00:13.50",
+   "end": "00:37.70",
+   "duration_s": 24.2,
+   "score": 86.5,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.725,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'Why?' lands on the very first frame",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'Why are you holding her hand?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + wedding stakes; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LADY JULIANA Why?",
+   "cliffhanger_source": "LADY JULIANA Why are you holding her hand?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Why?\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "Over-the-shoulder medium close-up past the Matriarch to Juliana, looking past her toward the altar."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up on the Matriarch wearing an ornate tiara and sapphire jewelry, gazing down with merciless d"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fianc\u00e9 Gerald abandons her at the altar fo",
+   "episode_duration_s": 138.0,
+   "global_rank": 26,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 1,
+   "start": "01:00.10",
+   "end": "01:47.30",
+   "duration_s": 47.2,
+   "score": 84.26,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.838,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with The Former Groom's 'I changed my mind.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'And I am what?'",
+   "why": "Works because: driven by emotional break; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "THE FORMER GROOM I changed my mind.",
+   "cliffhanger_source": "LADY JULIANA And I am what?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"And you knew?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Extreme close-up on Juliana's furious, weeping face."
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"Long enough to know he was never going to marry you.\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Father...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fianc\u00e9 Gerald abandons her at the altar fo",
+   "episode_duration_s": 138.0,
+   "global_rank": 48,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 17,
+    "settings": 1
+   }
+  }
+ ]
+}

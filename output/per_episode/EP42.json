@@ -1,0 +1,141 @@
+{
+ "episode": "42",
+ "promos": [
+  {
+   "episode": 42,
+   "start": "00:23.50",
+   "end": "01:17.80",
+   "duration_s": 54.3,
+   "score": 85.34,
+   "hook_score": 1.0,
+   "cliffhanger_score": 0.8,
+   "standalone_score": 0.617,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Blond Nobleman's 'I said arrest him!' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce,",
+   "why": "Works because: driven by physical confrontation; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "BLOND NOBLEMAN I said arrest him!",
+   "cliffhanger_source": "CAMERA Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "Close-up on the Royal Guard holding his upright blade with unwavering conviction."
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the "
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Rupert...\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her han"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclai",
+   "episode_duration_s": 77.8,
+   "global_rank": 42,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 13,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 42,
+   "start": "00:01.00",
+   "end": "00:30.30",
+   "duration_s": 29.3,
+   "score": 56.44,
+   "hook_score": 0.55,
+   "cliffhanger_score": 0.55,
+   "standalone_score": 0.622,
+   "per_ep_rank": 2,
+   "hook": "Opens mid-action: Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal ",
+   "cliffhanger": "Cuts on Catherine's unanswered 'Rupert...'",
+   "why": "Works because: driven by physical confrontation + high-stakes fate; readable without prior context",
+   "hook_source": "ACTION Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority.",
+   "cliffhanger_source": "CATHERINE Rupert...",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "close",
+     "beat": "Close-up on the Royal Guard holding his upright blade with unwavering conviction."
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Who are you?\""
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Guards! Arrest this imposter!\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up on Juliana, her manacled hands clutching at her smock as tears well in her eyes."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal "
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Alexander...\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclai",
+   "episode_duration_s": 77.8,
+   "global_rank": 130,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 1
+   }
+  }
+ ]
+}

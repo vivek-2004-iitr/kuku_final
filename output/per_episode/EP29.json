@@ -1,0 +1,185 @@
+{
+ "episode": "29",
+ "promos": [
+  {
+   "episode": 29,
+   "start": "01:14.70",
+   "end": "01:56.69",
+   "duration_s": 41.99,
+   "score": 82.11,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.418,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'What exactly do you think a penniless veteran can do against Ashbrook?' lands on the very first frame",
+   "cliffhanger": "Ends on a hard cut to black right after: Low-angle shot looking up at Juliana standing dignified in the center ",
+   "why": "Works because: instant pay-off in frame 1; driven by cut to black + an unanswered question; cut lands before the reveal, so viewers must press play",
+   "hook_source": "CATHERINE What exactly do you think a penniless veteran can do against Ashbrook?",
+   "cliffhanger_source": "CAMERA Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazing upward toward the overhead grate where faint beams of moonlight filter down, cutting sharply to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazi"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What exactly do you think a penniless veteran can do against Ashbrook?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Extreme close-up of Juliana's tear-drenched face crumpling in overwhelming grief."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Mother...\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"I saved the Duchess!\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror w"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isola",
+   "episode_duration_s": 116.69,
+   "global_rank": 68,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 9,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 29,
+   "start": "00:53.80",
+   "end": "01:14.30",
+   "duration_s": 20.5,
+   "score": 82.0,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.725,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Catherine's '...no one will remember what was written inside.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Catherine's unanswered 'Your scarred soldier?'",
+   "why": "Works because: driven by an unanswered question + emotional break + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CATHERINE ...no one will remember what was written inside.",
+   "cliffhanger_source": "CATHERINE Your scarred soldier?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Your scarred soldier?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Close-up of Juliana screaming back in raw outrage."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"You are doing this because I saved the Duchess!\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isola",
+   "episode_duration_s": 116.69,
+   "global_rank": 70,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 29,
+   "start": "00:07.40",
+   "end": "00:28.90",
+   "duration_s": 21.5,
+   "score": 77.51,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.613,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Juliana's \"Catherine! Please! That book is my mother's only legacy!\" in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up of Juliana held firmly between the guards, glaring back with fierce defiance.",
+   "why": "Works because: cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Catherine! Please! That book is my mother's only legacy!",
+   "cliffhanger_source": "CAMERA Close-up of Juliana held firmly between the guards, glaring back with fierce defiance.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Your mother's little book of weeds?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Juliana turning her head back toward Catherine, screaming through tears."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Full shot of Catherine turning gracefully on the dungeon steps, holding the book loosely at her side"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Juliana turning her head back toward Catherine, screaming through tears."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isola",
+   "episode_duration_s": 116.69,
+   "global_rank": 103,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 5,
+    "settings": 2
+   }
+  }
+ ]
+}

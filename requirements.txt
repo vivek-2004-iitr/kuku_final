@@ -1,0 +1,7 @@
+# Core pipeline: standard library only (no installs).
+#
+# Optional prototype UI:
+streamlit>=1.30
+#
+# (Optional) free local LLM for copy refinement: Ollama
+#   curl -fsSL https://ollama.com/install.sh | sh && ollama pull qwen2.5:7b

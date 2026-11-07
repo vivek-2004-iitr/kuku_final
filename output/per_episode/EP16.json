@@ -1,0 +1,193 @@
+{
+ "episode": "16",
+ "promos": [
+  {
+   "episode": 16,
+   "start": "00:42.50",
+   "end": "01:23.19",
+   "duration_s": 40.69,
+   "score": 90.07,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.816,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'Who sent you?' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.",
+   "why": "Works because: instant pay-off in frame 1; driven by score swells to a cliff + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ALEXANDER Who sent you?",
+   "cliffhanger_source": "SOUND FX Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.",
+   "cues": [
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold."
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Who sent you?\""
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"We were only paid to destroy the garden, that's all!\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Gerald...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Alexander, his eyes darkening with lethal fury."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession tha",
+   "episode_duration_s": 83.19,
+   "global_rank": 5,
+   "post_first": true,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 12,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 16,
+   "start": "00:23.00",
+   "end": "00:44.00",
+   "duration_s": 21.0,
+   "score": 89.52,
+   "hook_score": 1.0,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.651,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Bald Thug's 'Aaargh!' in the first 3 seconds",
+   "cliffhanger": "Cuts on Alexander's unanswered 'Who sent you?'",
+   "why": "Works because: driven by physical confrontation + high-stakes fate + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "BALD THUG Aaargh!",
+   "cliffhanger_source": "ALEXANDER Who sent you?",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "Medium tracking shot as the Bald Thug charges in with a shout, only for Alexander to pivot and seize"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Are you hurt?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Low-angle close-up of Juliana looking up at Alexander, tears glistening on her mud-splattered cheeks"
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "Medium tracking shot as the Bald Thug charges in with a shout, only for Alexander to pivot and seize"
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Alexander...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Medium shot of the Third Thug backing away nervously, raising a blunt rod with trembling arms before"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession tha",
+   "episode_duration_s": 83.19,
+   "global_rank": 7,
+   "post_first": true,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 16,
+   "start": "00:02.10",
+   "end": "00:23.80",
+   "duration_s": 21.7,
+   "score": 46.61,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.643,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Thug With Cap's 'Move aside, soldier.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Bald Thug's unanswered 'Aaargh!'",
+   "why": "Works because: driven by physical confrontation + emotional break; readable without prior context",
+   "hook_source": "THUG WITH CAP Move aside, soldier.",
+   "cliffhanger_source": "BALD THUG Aaargh!",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "close",
+     "beat": "Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the"
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "close",
+     "beat": "Close-up of Juliana watching in breathless astonishment."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Alexander...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Juliana kneeling in the mud against the ruined planter, clutching her bandaged hands to "
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession tha",
+   "episode_duration_s": 83.19,
+   "global_rank": 138,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  }
+ ]
+}

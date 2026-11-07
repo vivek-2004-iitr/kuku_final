@@ -1,0 +1,11 @@
+{
+ "total": 144,
+ "ok": 125,
+ "review": 19,
+ "reject": 0,
+ "soft_flag_counts": {
+  "low cliff": 15,
+  "spans 3 settings \u2014 check standalone clarity": 4,
+  "low hook": 1
+ }
+}

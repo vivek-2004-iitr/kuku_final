@@ -1,0 +1,202 @@
+[
+ {
+  "rank": 1,
+  "episode": 5,
+  "start": "00:55.50",
+  "end": "01:50.50",
+  "duration_s": 55.0,
+  "hook": "Stops the scroll with Juliana's \"Barbara, don't!\" in the first 3 seconds",
+  "cliffhanger": "Ends on a hard cut to black right after: Rain gently pattering on cobblestones beneath a sweeping, melancholic ",
+  "why": "Works because: driven by physical confrontation + cut to black; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 2,
+  "episode": 28,
+  "start": "00:45.60",
+  "end": "01:18.90",
+  "duration_s": 33.3,
+  "hook": "Stops the scroll with Dowager Duchess's 'They have been\u2014' in the first 3 seconds",
+  "cliffhanger": "Cuts on an unresolved beat: Close-up of Juliana crying out in agony, writhing in the guard's iron grip.",
+  "why": "Works because: driven by physical confrontation + emotional break + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 3,
+  "episode": 47,
+  "start": "01:24.00",
+  "end": "02:14.00",
+  "duration_s": 50.0,
+  "hook": "Hard stop-hook: 'Juliana, she tried to destroy you!' lands on the very first frame",
+  "cliffhanger": "Ends on a hard cut to black right after: Wide shot down the vaulted stone hall as Catherine prostrates herself ",
+  "why": "Works because: instant pay-off in frame 1; driven by cut to black + a veiled threat; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 4,
+  "episode": 32,
+  "start": "02:01.80",
+  "end": "02:34.38",
+  "duration_s": 32.58,
+  "hook": "Hard stop-hook: 'Why?!' lands on the very first frame",
+  "cliffhanger": "Ends on a hard cut to black right after: Extreme close-up of Juliana's wide, unblinking blue eye. The intense, ",
+  "why": "Works because: instant pay-off in frame 1; driven by cut to black + score swells to a cliff + emotional break; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 5,
+  "episode": 16,
+  "start": "00:42.50",
+  "end": "01:23.19",
+  "duration_s": 40.69,
+  "hook": "Hard stop-hook: 'Who sent you?' lands on the very first frame",
+  "cliffhanger": "Cuts on an unresolved beat: Slow, resonant emotional cello melody swelling to a dramatic cliffhanger hold.",
+  "why": "Works because: instant pay-off in frame 1; driven by score swells to a cliff + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 6,
+  "episode": 20,
+  "start": "01:00.00",
+  "end": "01:54.75",
+  "duration_s": 54.75,
+  "hook": "Opens mid-action: The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat,",
+  "cliffhanger": "Cuts on an unresolved beat: Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ",
+  "why": "Works because: driven by score swells to a cliff + a big reveal / secret; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 7,
+  "episode": 16,
+  "start": "00:23.00",
+  "end": "00:44.00",
+  "duration_s": 21.0,
+  "hook": "Stops the scroll with Bald Thug's 'Aaargh!' in the first 3 seconds",
+  "cliffhanger": "Cuts on Alexander's unanswered 'Who sent you?'",
+  "why": "Works because: driven by physical confrontation + high-stakes fate + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 8,
+  "episode": 32,
+  "start": "00:23.80",
+  "end": "00:49.00",
+  "duration_s": 25.2,
+  "hook": "Hard stop-hook: 'What?' lands on the very first frame",
+  "cliffhanger": "Cuts on Catherine's unanswered 'A disgraced woman?'",
+  "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 9,
+  "episode": 28,
+  "start": "01:35.20",
+  "end": "02:18.50",
+  "duration_s": 43.3,
+  "hook": "Hard stop-hook: Juliana gasps in horror, realizing her secret identity has been laid bare.",
+  "cliffhanger": "Ends on a hard cut to black right after: Extreme close-up of Juliana's wide, trembling eyes as the guard wrench",
+  "why": "Works because: instant pay-off in frame 1; driven by cut to black + a big reveal / secret + emotional break; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 10,
+  "episode": 2,
+  "start": "00:02.80",
+  "end": "00:27.40",
+  "duration_s": 24.6,
+  "hook": "Hard stop-hook: Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.",
+  "cliffhanger": "Cuts on Lady Juliana's unanswered 'A better choice? Is that what she is?'",
+  "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + emotional break + a veiled threat; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 11,
+  "episode": 18,
+  "start": "02:25.80",
+  "end": "03:12.00",
+  "duration_s": 46.2,
+  "hook": "Hard stop-hook: 'Why would anyone do this?' lands on the very first frame",
+  "cliffhanger": "Ends on a hard cut to black right after: Dramatic hold on Alexander's grim, unyielding profile as he stares int",
+  "why": "Works because: instant pay-off in frame 1; driven by cut to black + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 12,
+  "episode": 3,
+  "start": "01:24.50",
+  "end": "01:52.50",
+  "duration_s": 28.0,
+  "hook": "Opens mid-action: A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone",
+  "cliffhanger": "Cuts on Lady Juliana's unanswered 'Why are you doing this?'",
+  "why": "Works because: driven by physical confrontation; cut lands before the reveal, so viewers must press play"
+ },
+ {
+  "rank": 13,
+  "episode": 49,
+  "start": "01:44.20",
+  "end": "02:24.75",
+  "duration_s": 40.55,
+  "hook": "Stops the scroll with Father Thomas's 'If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?' in the first 3 seconds",
+  "cliffhanger": "Ends on a hard cut to black right after: Extreme close-up as Father Thomas gently raises his other hand and cup",
+  "why": "Works because: driven by cut to black + a big reveal / secret + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 14,
+  "episode": 31,
+  "start": "00:43.20",
+  "end": "01:20.20",
+  "duration_s": 37.0,
+  "hook": "Hard stop-hook: 'No. You became a disgrace when Gerald left you standing at the altar.' lands on the very first frame",
+  "cliffhanger": "Cuts on Catherine's unanswered 'You call that marriage?'",
+  "why": "Works because: instant pay-off in frame 1; driven by high-stakes fate + wedding stakes; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 15,
+  "episode": 36,
+  "start": "02:26.50",
+  "end": "03:20.75",
+  "duration_s": 54.25,
+  "hook": "Hard stop-hook: 'What wedding?' lands on the very first frame",
+  "cliffhanger": "Cuts on an unresolved beat: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into sil",
+  "why": "Works because: instant pay-off in frame 1; driven by score swells to a cliff + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 16,
+  "episode": 35,
+  "start": "01:29.80",
+  "end": "01:50.00",
+  "duration_s": 20.2,
+  "hook": "Hard stop-hook: 'A traitor?' lands on the very first frame",
+  "cliffhanger": "Cuts on Alexander's unanswered 'I was shot. Left for dead.'",
+  "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + emotional break + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 17,
+  "episode": 28,
+  "start": "00:18.90",
+  "end": "00:56.60",
+  "duration_s": 37.7,
+  "hook": "Stops the scroll with Blond Nobleman's 'A clever story, girl.' in the first 3 seconds",
+  "cliffhanger": "Cuts on Blond Nobleman's unanswered 'The poison has clearly damaged her mind.'",
+  "why": "Works because: driven by a big reveal / secret + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 18,
+  "episode": 33,
+  "start": "01:19.60",
+  "end": "01:51.50",
+  "duration_s": 31.9,
+  "hook": "Hard stop-hook: 'The truth.' lands on the very first frame",
+  "cliffhanger": "Cuts on Lord's unanswered 'Praying... or chanting?'",
+  "why": "Works because: instant pay-off in frame 1; driven by a big reveal / secret + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 19,
+  "episode": 30,
+  "start": "00:26.50",
+  "end": "01:04.30",
+  "duration_s": 37.8,
+  "hook": "Stops the scroll with Rupert's 'She knows the Duchess was poisoned.' in the first 3 seconds",
+  "cliffhanger": "Cuts on Rupert's unanswered 'The law?'",
+  "why": "Works because: driven by a big reveal / secret + a veiled threat + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context"
+ },
+ {
+  "rank": 20,
+  "episode": 1,
+  "start": "00:35.40",
+  "end": "01:14.30",
+  "duration_s": 38.9,
+  "hook": "Hard stop-hook: 'Why are you holding her hand?' lands on the very first frame",
+  "cliffhanger": "Cuts on Lady Juliana's unanswered 'How long?'",
+  "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context"
+ }
+]

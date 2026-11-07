@@ -1,0 +1,173 @@
+{
+ "episode": "9",
+ "promos": [
+  {
+   "episode": 9,
+   "start": "00:52.50",
+   "end": "01:27.40",
+   "duration_s": 34.9,
+   "score": 84.64,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.632,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: \"Why isn't it working?\" lands on the very first frame",
+   "cliffhanger": "Cuts on Blond Nobleman's unanswered 'What is it?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + wedding stakes; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "PEASANT MOTHER Why isn't it working?",
+   "cliffhanger_source": "BLOND NOBLEMAN What is it?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Why isn't it working?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of the mother gently caressing her son's cheek, sobbing with relief."
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "close",
+     "beat": "The Former Groom, soaked from the rain and clutching his hat, walks nervously through the double doo"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly ign",
+   "episode_duration_s": 115.5,
+   "global_rank": 45,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 9,
+   "start": "00:29.00",
+   "end": "00:54.00",
+   "duration_s": 25.0,
+   "score": 81.12,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.681,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Juliana's 'Feverfew... Not alone.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Peasant Mother's unanswered \"Why isn't it working?\"",
+   "why": "Works because: driven by emotional break; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Feverfew... Not alone.",
+   "cliffhanger_source": "PEASANT MOTHER Why isn't it working?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"You're certain?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Profile close-up of Juliana studying the grimoire's remedies intently while the mother weeps in the "
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Medium close-up of Juliana clasping the mother's trembling hand across the wooden table."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly ign",
+   "episode_duration_s": 115.5,
+   "global_rank": 77,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 9,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 9,
+   "start": "01:15.10",
+   "end": "01:55.50",
+   "duration_s": 40.4,
+   "score": 80.12,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.656,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Alexander's 'You cannot let the whole village start talking about you.' in the first 3 seconds",
+   "cliffhanger": "Ends on a hard cut to black right after: Extreme close-up macro shot of the Blond Nobleman's eye, the flickerin",
+   "why": "Works because: driven by cut to black; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ALEXANDER You cannot let the whole village start talking about you.",
+   "cliffhanger_source": "CAMERA Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames dancing across his widening iris as dark dread paralyzes him, holding until the screen cuts to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames dancing acr"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"What is it?\""
+    },
+    {
+     "name": "shock reaction",
+     "weight": 0.85,
+     "zone": "mid",
+     "beat": "Extreme close-up of The Former Groom's eyes widening with urgent dread."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"About a war veteran. Some say he resembles the late Duke.\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "The Former Groom, soaked from the rain and clutching his hat, walks nervously through the double doo"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of the Blond Nobleman composing his features into cold disdain, though tension trembles ben"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly ign",
+   "episode_duration_s": 115.5,
+   "global_rank": 87,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 14,
+    "settings": 2
+   }
+  }
+ ]
+}

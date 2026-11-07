@@ -1,0 +1,161 @@
+{
+ "episode": "22",
+ "promos": [
+  {
+   "episode": 22,
+   "start": "00:11.20",
+   "end": "00:49.00",
+   "duration_s": 37.8,
+   "score": 81.7,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.485,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'No one will recognize me dressed like this.' lands on the very first frame",
+   "cliffhanger": "Cuts on Prudence's unanswered \"Julian, ma'am. New help for the winter cleaning.\"",
+   "why": "Works because: instant pay-off in frame 1; driven by a trailing-off line; cut lands before the reveal, so viewers must press play",
+   "hook_source": "LADY JULIANA No one will recognize me dressed like this.",
+   "cliffhanger_source": "PRUDENCE Julian, ma'am. New help for the winter cleaning.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"And if they discover who you are?\""
+    },
+    {
+     "name": "shock reaction",
+     "weight": 0.85,
+     "zone": "mid",
+     "beat": "Close-up on Prudence, her eyes wide with dread."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"This is Ashburton Manor. The housekeeper watches everyone. Lady Catherine watches everyone, and Lor"
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"The Duchess is dying.\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the d",
+   "episode_duration_s": 131.0,
+   "global_rank": 73,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 22,
+   "start": "01:02.50",
+   "end": "01:24.50",
+   "duration_s": 22.0,
+   "score": 79.45,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.71,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Lady Juliana's \"Yes, ma'am.\" in the first 3 seconds",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'Where is the West Wing?'",
+   "why": "Works because: driven by rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LADY JULIANA Yes, ma'am.",
+   "cliffhanger_source": "LADY JULIANA Where is the West Wing?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"And can you keep your eyes and ears where they belong?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "The Housekeeper turns and stalks away down the corridor. Prudence exhales a trembling breath of reli"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the d",
+   "episode_duration_s": 131.0,
+   "global_rank": 90,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 22,
+   "start": "01:46.50",
+   "end": "02:08.80",
+   "duration_s": 22.3,
+   "score": 77.84,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.517,
+   "per_ep_rank": 3,
+   "hook": "Opens mid-action: Faint, muffled click of the heavy door lock turning.",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'Who has been treating you?'",
+   "why": "Works because: driven by emotional break + rising tension; cut lands before the reveal, so viewers must press play",
+   "hook_source": "SOUND FX Faint, muffled click of the heavy door lock turning.",
+   "cliffhanger_source": "LADY JULIANA Who has been treating you?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Your Grace?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Faint, muffled click of the heavy door lock turning."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Close-up of the Dowager Duchess lying propped on pillows, her face gaunt, ashen, and drenched in col"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "The Dowager Duchess suddenly gasps violently for breath, convulsing weakly as her eyes snap open in "
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the d",
+   "episode_duration_s": 131.0,
+   "global_rank": 101,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 4,
+    "settings": 1
+   }
+  }
+ ]
+}

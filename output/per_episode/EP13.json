@@ -1,0 +1,169 @@
+{
+ "episode": "13",
+ "promos": [
+  {
+   "episode": 13,
+   "start": "01:07.50",
+   "end": "01:58.88",
+   "duration_s": 51.38,
+   "score": 83.5,
+   "hook_score": 0.85,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.6,
+   "per_ep_rank": 1,
+   "hook": "Opens mid-action: Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand",
+   "cliffhanger": "Ends on a hard cut to black right after: Macro close-up holding on Juliana's bloodied fist firmly gripping the ",
+   "why": "Works because: driven by physical confrontation + cut to black; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CAMERA Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand.",
+   "cliffhanger_source": "CAMERA Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand"
+    },
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the froze"
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of Alexander struggling in agony, tears forming in his eyes."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Alexander struggling in agony, tears forming in his eyes."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's c",
+   "episode_duration_s": 118.88,
+   "global_rank": 57,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 13,
+   "start": "00:12.40",
+   "end": "00:52.60",
+   "duration_s": 40.2,
+   "score": 64.03,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.55,
+   "standalone_score": 0.439,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Juliana's 'I must.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Alexander's unanswered 'Please...'",
+   "why": "Works because: driven by physical confrontation + emotional break + a trailing-off line",
+   "hook_source": "JULIANA I must.",
+   "cliffhanger_source": "ALEXANDER Please...",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "close",
+     "beat": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Cons"
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "\"They will tear your hands apart.\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"Please...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breat"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's c",
+   "episode_duration_s": 118.88,
+   "global_rank": 127,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 13,
+   "start": "00:45.80",
+   "end": "01:07.50",
+   "duration_s": 21.7,
+   "score": 57.42,
+   "hook_score": 1.0,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.621,
+   "per_ep_rank": 3,
+   "hook": "Opens mid-action: Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breat",
+   "cliffhanger": "Cuts on an unresolved beat: Low-angle medium close-up of Gerald shouting down into the garden.",
+   "why": "Works because: driven by physical confrontation + rising tension; readable without prior context",
+   "hook_source": "ACTION Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.",
+   "cliffhanger_source": "CAMERA Low-angle medium close-up of Gerald shouting down into the garden.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Cons"
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Please...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breat"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's c",
+   "episode_duration_s": 118.88,
+   "global_rank": 128,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  }
+ ]
+}

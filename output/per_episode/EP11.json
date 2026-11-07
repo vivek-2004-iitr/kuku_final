@@ -1,0 +1,175 @@
+{
+ "episode": "11",
+ "promos": [
+  {
+   "episode": 11,
+   "start": "00:19.00",
+   "end": "01:16.80",
+   "duration_s": 57.8,
+   "score": 84.34,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.617,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'What? When?' lands on the very first frame",
+   "cliffhanger": "Cuts on Gerald's unanswered 'Happy?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA What? When?",
+   "cliffhanger_source": "GERALD Happy?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What? When?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks"
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"Choose your next words carefully.\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"If he has nothing to hide...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threate",
+   "episode_duration_s": 112.75,
+   "global_rank": 47,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 23,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 11,
+   "start": "01:06.00",
+   "end": "01:52.75",
+   "duration_s": 46.75,
+   "score": 77.71,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.8,
+   "standalone_score": 0.798,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Juliana's 'Those are all I have left!' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers o",
+   "why": "Works because: cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Those are all I have left!",
+   "cliffhanger_source": "CAMERA Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "mid",
+     "beat": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets."
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Happy?\""
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"But one blow would destroy her life.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth o"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threate",
+   "episode_duration_s": 112.75,
+   "global_rank": 102,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 11,
+   "start": "00:02.00",
+   "end": "00:22.00",
+   "duration_s": 20.0,
+   "score": 44.2,
+   "hook_score": 0.0,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.635,
+   "per_ep_rank": 3,
+   "hook": "Opens mid-action: Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands gu",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up of Gerald narrowing his eyes vindictively.",
+   "why": "Works because: driven by shock reaction; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ACTION Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her.",
+   "cliffhanger_source": "CAMERA Close-up of Gerald narrowing his eyes vindictively.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Gerald? What are you doing here?\""
+    },
+    {
+     "name": "shock reaction",
+     "weight": 0.85,
+     "zone": "open",
+     "beat": "Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands gu"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphan"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threate",
+   "episode_duration_s": 112.75,
+   "global_rank": 141,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low hook (0.0) \u2014 opening may not stop a scroll"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  }
+ ]
+}

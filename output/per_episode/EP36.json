@@ -1,0 +1,179 @@
+{
+ "episode": "36",
+ "promos": [
+  {
+   "episode": 36,
+   "start": "02:26.50",
+   "end": "03:20.75",
+   "duration_s": 54.25,
+   "score": 87.31,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.678,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'What wedding?' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into sil",
+   "why": "Works because: instant pay-off in frame 1; driven by score swells to a cliff + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ALEXANDER What wedding?",
+   "cliffhanger_source": "SOUND FX A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence.",
+   "cues": [
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into sil"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What wedding?\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"They are marrying in two days...\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"...their dead Duke is coming home.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up on Alexander stepping forward, his voice rising with lethal thunder."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows t",
+   "episode_duration_s": 200.75,
+   "global_rank": 15,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 13,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 36,
+   "start": "01:57.50",
+   "end": "02:21.50",
+   "duration_s": 24.0,
+   "score": 86.7,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.735,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'You told them the truth!' lands on the very first frame",
+   "cliffhanger": "Cuts on Alexander's unanswered 'When?'",
+   "why": "Works because: instant pay-off in frame 1; driven by a big reveal / secret + high-stakes fate + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ALEXANDER You told them the truth!",
+   "cliffhanger_source": "ALEXANDER When?",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"You told them the truth!\""
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Juliana... is in a cell?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up on his mother breaking down into inconsolable sobs."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"She is to be executed.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Close-up on his mother looking up through her tears, delivering the horrifying reality."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows t",
+   "episode_duration_s": 200.75,
+   "global_rank": 23,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 9,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 36,
+   "start": "00:21.00",
+   "end": "00:41.40",
+   "duration_s": 20.4,
+   "score": 86.56,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.728,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Alexander's 'They knew where I was.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Alexander'S Mother's unanswered 'And when you disappeared...?'",
+   "why": "Works because: driven by a big reveal / secret; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ALEXANDER They knew where I was.",
+   "cliffhanger_source": "ALEXANDER'S MOTHER And when you disappeared...?",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"My position was leaked to the French... before I could expose what I had discovered.\""
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"They gave you to the enemy?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Alexander's mother clutching the collar of her dark cloak, her chest heaving with agony."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows t",
+   "episode_duration_s": 200.75,
+   "global_rank": 25,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  }
+ ]
+}

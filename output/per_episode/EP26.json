@@ -1,0 +1,169 @@
+{
+ "episode": "26",
+ "promos": [
+  {
+   "episode": 26,
+   "start": "01:02.60",
+   "end": "02:00.88",
+   "duration_s": 58.28,
+   "score": 86.29,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.627,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'Yes. But the charcoal is fighting the poison. You are safe now.' lands on the very first frame",
+   "cliffhanger": "Ends on a hard cut to black right after: Tight close-up of the Dowager Duchess's two weathered hands tightly cl",
+   "why": "Works because: instant pay-off in frame 1; driven by cut to black + score swells to a cliff + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Yes. But the charcoal is fighting the poison. You are safe now.",
+   "cliffhanger_source": "CAMERA Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding"
+    },
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Then tell me... why is a girl of such noble spirit working as a common maid?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "A sharp, stunned gasp."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"Yes. But the charcoal is fighting the poison. You are safe now.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a",
+   "episode_duration_s": 120.88,
+   "global_rank": 30,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 26,
+   "start": "00:30.80",
+   "end": "01:19.40",
+   "duration_s": 48.6,
+   "score": 80.82,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.666,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Dowager Duchess's \"You... you are no common servant. You took Catherine's whip for me the other day.\" in the first 3 seconds",
+   "cliffhanger": "Cuts on Dowager Duchess's unanswered 'Then tell me... why is a girl of such noble spirit working as a common maid?'",
+   "why": "Works because: driven by emotional break + high-stakes fate; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "DOWAGER DUCHESS You... you are no common servant. You took Catherine's whip for me the other day.",
+   "cliffhanger_source": "DOWAGER DUCHESS Then tell me... why is a girl of such noble spirit working as a common maid?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certai"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a",
+   "episode_duration_s": 120.88,
+   "global_rank": 79,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 26,
+   "start": "00:14.20",
+   "end": "00:35.50",
+   "duration_s": 21.3,
+   "score": 43.75,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.5,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Dowager Duchess's 'Who are you? Speak to me. I have not seen your face before.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Dowager Duchess's unanswered \"You... you are no common servant. You took Catherine's whip for me the other day.\"",
+   "why": "Works because: driven by high-stakes fate",
+   "hook_source": "DOWAGER DUCHESS Who are you? Speak to me. I have not seen your face before.",
+   "cliffhanger_source": "DOWAGER DUCHESS You... you are no common servant. You took Catherine's whip for me the other day.",
+   "cues": [
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "Low-angle medium two-shot looking past Juliana's silhouette down to the Duchess in bed."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a",
+   "episode_duration_s": 120.88,
+   "global_rank": 142,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 3,
+    "settings": 1
+   }
+  }
+ ]
+}

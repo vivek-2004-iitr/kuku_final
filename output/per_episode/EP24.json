@@ -1,0 +1,151 @@
+{
+ "episode": "24",
+ "promos": [
+  {
+   "episode": 24,
+   "start": "00:33.80",
+   "end": "00:57.60",
+   "duration_s": 23.8,
+   "score": 83.82,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.591,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: Juliana gasps in pain, clutching her stomach and bending over as she absorbs the",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'All of it, my lady?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + emotional break + high-stakes fate; cut lands before the reveal, so viewers must press play",
+   "hook_source": "ACTION Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.",
+   "cliffhanger_source": "LADY JULIANA All of it, my lady?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"All of it, my lady?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the he",
+   "episode_duration_s": 92.0,
+   "global_rank": 54,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 24,
+   "start": "00:06.80",
+   "end": "00:26.80",
+   "duration_s": 20.0,
+   "score": 75.59,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.517,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Noblewoman's 'Who are you?' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter.",
+   "why": "Works because: driven by an unanswered question; cut lands before the reveal, so viewers must press play",
+   "hook_source": "NOBLEWOMAN Who are you?",
+   "cliffhanger_source": "CAMERA Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Who are you?\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "Close-up of the frail Dowager Duchess lying pale and unconscious against the white pillows, gasping "
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the he",
+   "episode_duration_s": 92.0,
+   "global_rank": 113,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 24,
+   "start": "01:08.00",
+   "end": "01:31.50",
+   "duration_s": 23.5,
+   "score": 46.81,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.653,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Noblewoman's 'Do you want the same punishment?' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn ",
+   "why": "Works because: driven by an unanswered question + rising tension; readable without prior context",
+   "hook_source": "NOBLEWOMAN Do you want the same punishment?",
+   "cliffhanger_source": "ACTION Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Do you want the same punishment?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn "
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the he",
+   "episode_duration_s": 92.0,
+   "global_rank": 137,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  }
+ ]
+}

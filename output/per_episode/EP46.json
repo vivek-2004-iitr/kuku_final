@@ -1,0 +1,173 @@
+{
+ "episode": "46",
+ "promos": [
+  {
+   "episode": 46,
+   "start": "01:41.80",
+   "end": "02:23.80",
+   "duration_s": 42.0,
+   "score": 82.86,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.8,
+   "standalone_score": 0.718,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: \"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.\" lands on the very first frame",
+   "cliffhanger": "Cuts on Catherine's unanswered 'Ten days is plenty of time.'",
+   "why": "Works because: instant pay-off in frame 1; driven by high-stakes fate + wedding stakes; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ALEXANDER A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.",
+   "cliffhanger_source": "CATHERINE Ten days is plenty of time.",
+   "cues": [
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "\"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to deman",
+   "episode_duration_s": 143.88,
+   "global_rank": 64,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 46,
+   "start": "00:26.80",
+   "end": "00:49.00",
+   "duration_s": 22.2,
+   "score": 74.39,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.55,
+   "standalone_score": 0.732,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with High Priest's 'Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.' in the first 3 seconds",
+   "cliffhanger": "Cuts on High Priest (O.S.) (Sharp)'s unanswered 'No licensed clergyman presided...'",
+   "why": "Works because: driven by a big reveal / secret + high-stakes fate + a trailing-off line; readable without prior context",
+   "hook_source": "HIGH PRIEST Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.",
+   "cliffhanger_source": "HIGH PRIEST (O.S.) (SHARP) No licensed clergyman presided...",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"No licensed clergyman presided...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "\"Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Two-shot of Juliana and Alexander listening intently, Juliana's eyes flashing with hurt and defiance"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to deman",
+   "episode_duration_s": 143.88,
+   "global_rank": 115,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 46,
+   "start": "00:00.00",
+   "end": "00:22.80",
+   "duration_s": 22.8,
+   "score": 66.4,
+   "hook_score": 0.765,
+   "cliffhanger_score": 0.55,
+   "standalone_score": 0.636,
+   "per_ep_rank": 3,
+   "hook": "Hard stop-hook: Full shot of Alexander and Juliana standing side by side before the altar, their",
+   "cliffhanger": "Cuts on High Priest (O.S.) (Cold, Accusatory)'s unanswered 'You married this woman as a nameless beggar...'",
+   "why": "Works because: instant pay-off in frame 1; driven by a trailing-off line + wedding stakes; readable without prior context",
+   "hook_source": "CAMERA Full shot of Alexander and Juliana standing side by side before the altar, their hands tightly clasped beneath the soaring stained-glass windows.",
+   "cliffhanger_source": "HIGH PRIEST (O.S.) (COLD, ACCUSATORY) You married this woman as a nameless beggar...",
+   "cues": [
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Crisp tear of wax and parchment string snapping open."
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"By Royal command, this sanctuary is placed under immediate Crown scesion.\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"You married this woman as a nameless beggar...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "Full shot of Alexander and Juliana standing side by side before the altar, their hands tightly clasp"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Crisp tear of wax and parchment string snapping open."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to deman",
+   "episode_duration_s": 143.88,
+   "global_rank": 124,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 4,
+    "settings": 1
+   }
+  }
+ ]
+}

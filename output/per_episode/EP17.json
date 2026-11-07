@@ -1,0 +1,148 @@
+{
+ "episode": "17",
+ "promos": [
+  {
+   "episode": 17,
+   "start": "00:03.00",
+   "end": "00:27.70",
+   "duration_s": 24.7,
+   "score": 85.5,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.675,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots ",
+   "cliffhanger": "Cuts on Alexander's unanswered 'As long as I draw breath...'",
+   "why": "Works because: instant pay-off in frame 1; driven by a big reveal / secret + a trailing-off line; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ACTION Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots out of the soil, cupping it in her palm.",
+   "cliffhanger_source": "ALEXANDER As long as I draw breath...",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots out of the soil, cup"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"For what?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope"
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"As long as I draw breath...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intima",
+   "episode_duration_s": 118.88,
+   "global_rank": 41,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 17,
+   "start": "00:28.80",
+   "end": "01:03.50",
+   "duration_s": 34.7,
+   "score": 79.1,
+   "hook_score": 0.8,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.58,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Alexander's '...no one will hurt you again.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up of Juliana gazing directly into his eyes, her heart laid bare.",
+   "why": "Works because: driven by emotional break + rising tension; cut lands before the reveal, so viewers must press play",
+   "hook_source": "ALEXANDER ...no one will hurt you again.",
+   "cliffhanger_source": "CAMERA Close-up of Juliana gazing directly into his eyes, her heart laid bare.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Of them?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intima",
+   "episode_duration_s": 118.88,
+   "global_rank": 95,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 9,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 17,
+   "start": "01:28.00",
+   "end": "01:58.88",
+   "duration_s": 30.88,
+   "score": 78.8,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.8,
+   "standalone_score": 0.515,
+   "per_ep_rank": 3,
+   "hook": "Hard stop-hook: 'This is becoming impossible.' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Slow pull-back wide shot of Alexander and Juliana locked in a tender, enduring embrace before the ra",
+   "why": "Works because: instant pay-off in frame 1; cut lands before the reveal, so viewers must press play",
+   "hook_source": "JULIANA This is becoming impossible.",
+   "cliffhanger_source": "CAMERA Slow pull-back wide shot of Alexander and Juliana locked in a tender, enduring embrace before the radiant, roaring hearth as the fire crackles peacefully.",
+   "cues": [],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intima",
+   "episode_duration_s": 118.88,
+   "global_rank": 98,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  }
+ ]
+}

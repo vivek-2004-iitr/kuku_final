@@ -1,0 +1,111 @@
+{
+ "episode": "48",
+ "promos": [
+  {
+   "episode": 48,
+   "start": "00:34.20",
+   "end": "01:20.00",
+   "duration_s": 45.8,
+   "score": 82.58,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.779,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Catherine's 'Everyone in that chapel saw me humiliated today.' in the first 3 seconds",
+   "cliffhanger": "Ends on a hard cut to black right after: Exterior shot looking through the dark diamond-paned window frame at C",
+   "why": "Works because: driven by cut to black + wedding stakes; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CATHERINE Everyone in that chapel saw me humiliated today.",
+   "cliffhanger_source": "CAMERA Exterior shot looking through the dark diamond-paned window frame at Catherine standing motionless in the warm candlelight, staring outward into the night with cold, unyielding ambition as the scene fades to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Exterior shot looking through the dark diamond-paned window frame at Catherine standing motionless i"
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"My lady... the Duke has bailiffs watching every road out of the county.\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"If someone sees him come to you...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "\"Everyone in that chapel saw me humiliated today.\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up on Catherine, a smug, venomous smile spreading across her painted lips."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander ",
+   "episode_duration_s": 80.0,
+   "global_rank": 67,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 12,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 48,
+   "start": "00:02.40",
+   "end": "00:32.00",
+   "duration_s": 29.6,
+   "score": 82.0,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.5,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: \"Two words, and that healer's crown rolls right back into the gutter where it belongs.\" lands on the very first frame",
+   "cliffhanger": "Cuts on Catherine's unanswered 'Lock it.'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + high-stakes fate; cut lands before the reveal, so viewers must press play",
+   "hook_source": "CATHERINE Two words, and that healer's crown rolls right back into the gutter where it belongs.",
+   "cliffhanger_source": "CATHERINE Lock it.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"You sent for me, my lady?\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"Two words, and that healer's crown rolls right back into the gutter where it belongs.\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander ",
+   "episode_duration_s": 80.0,
+   "global_rank": 71,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 9,
+    "settings": 2
+   }
+  }
+ ]
+}

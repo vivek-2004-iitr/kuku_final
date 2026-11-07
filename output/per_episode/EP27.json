@@ -1,0 +1,143 @@
+{
+ "episode": "27",
+ "promos": [
+  {
+   "episode": 27,
+   "start": "00:52.20",
+   "end": "01:14.80",
+   "duration_s": 22.6,
+   "score": 86.78,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.739,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: \"What is that maid doing in Her Grace's private chamber?\" lands on the very first frame",
+   "cliffhanger": "Cuts on Juliana's unanswered 'Medicine.'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LADY CATHERINE What is that maid doing in Her Grace's private chamber?",
+   "cliffhanger_source": "JULIANA Medicine.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What is that maid doing in Her Grace's private chamber?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of Lady Catherine narrowing her eyes with venomous suspicion."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert ",
+   "episode_duration_s": 150.5,
+   "global_rank": 22,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 27,
+   "start": "01:55.10",
+   "end": "02:30.50",
+   "duration_s": 35.4,
+   "score": 84.23,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.524,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'Poison.' lands on the very first frame",
+   "cliffhanger": "Ends on a hard cut to black right after: Extreme close-up of Juliana's wide, terrified eyes as she realizes the",
+   "why": "Works because: instant pay-off in frame 1; driven by cut to black + high-stakes fate; cut lands before the reveal, so viewers must press play",
+   "hook_source": "JULIANA Poison.",
+   "cliffhanger_source": "CAMERA Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around her, cutting abruptly to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around he"
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"She admits she has been giving the Duchess poison in secret!\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"Poison.\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert ",
+   "episode_duration_s": 150.5,
+   "global_rank": 49,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 27,
+   "start": "01:12.60",
+   "end": "01:35.00",
+   "duration_s": 22.4,
+   "score": 83.26,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.563,
+   "per_ep_rank": 3,
+   "hook": "Hard stop-hook: 'What is this?' lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Close-up of Juliana retorting without hesitation.",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play",
+   "hook_source": "BLOND NOBLEMAN What is this?",
+   "cliffhanger_source": "CAMERA Close-up of Juliana retorting without hesitation.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What is this?\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Who permitted you to give medicine to the Duchess?\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert ",
+   "episode_duration_s": 150.5,
+   "global_rank": 59,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 9,
+    "settings": 1
+   }
+  }
+ ]
+}

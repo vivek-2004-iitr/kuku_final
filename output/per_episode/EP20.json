@@ -1,0 +1,173 @@
+{
+ "episode": "20",
+ "promos": [
+  {
+   "episode": 20,
+   "start": "01:00.00",
+   "end": "01:54.75",
+   "duration_s": 54.75,
+   "score": 89.85,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.805,
+   "per_ep_rank": 1,
+   "hook": "Opens mid-action: The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat,",
+   "cliffhanger": "Cuts on an unresolved beat: Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ",
+   "why": "Works because: driven by score swells to a cliff + a big reveal / secret; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ACTION The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.",
+   "cliffhanger_source": "CAMERA Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.",
+   "cues": [
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable "
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat,"
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "mid",
+     "beat": "\"This house will only bow to me.\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Once the old Duchess is gone...\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Once the old Duchess is gone...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "\"The chapel is gone, Seamus. I am the only healer these people have left.\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy bar",
+   "episode_duration_s": 114.75,
+   "global_rank": 6,
+   "post_first": true,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 19,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 20,
+   "start": "00:21.30",
+   "end": "00:42.50",
+   "duration_s": 21.2,
+   "score": 84.0,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.6,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: \"Once my cousin Alexander's death is formally sealed by the Crown...\" lands on the very first frame",
+   "cliffhanger": "Cuts on an unresolved beat: Medium profile of Rupert looking out the window, hands clasped behind him.",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + high-stakes fate + a trailing-off line; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "RUPERT Once my cousin Alexander's death is formally sealed by the Crown...",
+   "cliffhanger_source": "CAMERA Medium profile of Rupert looking out the window, hands clasped behind him.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"How much longer can the frail thing survive?\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"Once my cousin Alexander's death is formally sealed by the Crown...\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"Once my cousin Alexander's death is formally sealed by the Crown...\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy bar",
+   "episode_duration_s": 114.75,
+   "global_rank": 51,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 20,
+   "start": "00:02.90",
+   "end": "00:24.20",
+   "duration_s": 21.3,
+   "score": 65.0,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.55,
+   "standalone_score": 0.6,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Catherine's 'Two lumps of sugar, Rupert?' in the first 3 seconds",
+   "cliffhanger": "Cuts on Rupert's unanswered \"Once my cousin Alexander's death is formally sealed by the Crown...\"",
+   "why": "Works because: driven by an unanswered question + a trailing-off line; readable without prior context",
+   "hook_source": "CATHERINE Two lumps of sugar, Rupert?",
+   "cliffhanger_source": "RUPERT Once my cousin Alexander's death is formally sealed by the Crown...",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Two lumps of sugar, Rupert?\""
+    },
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"'Practically' is a word for beggars. I do not marry a practical Duke.\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"Once my cousin Alexander's death is formally sealed by the Crown...\""
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy bar",
+   "episode_duration_s": 114.75,
+   "global_rank": 125,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 1
+   }
+  }
+ ]
+}

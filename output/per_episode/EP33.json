@@ -1,0 +1,179 @@
+{
+ "episode": "33",
+ "promos": [
+  {
+   "episode": 33,
+   "start": "01:19.60",
+   "end": "01:51.50",
+   "duration_s": 31.9,
+   "score": 87.08,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.754,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'The truth.' lands on the very first frame",
+   "cliffhanger": "Cuts on Lord's unanswered 'Praying... or chanting?'",
+   "why": "Works because: instant pay-off in frame 1; driven by a big reveal / secret + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LORD The truth.",
+   "cliffhanger_source": "LORD Praying... or chanting?",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"The truth.\""
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"She drew something around the bed, did she not?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of the maid stammering through her tears."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"And she opened her mother's book...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of the maid stammering through her tears."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana ",
+   "episode_duration_s": 174.04,
+   "global_rank": 18,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 33,
+   "start": "00:21.20",
+   "end": "00:48.80",
+   "duration_s": 27.6,
+   "score": 86.46,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.723,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'What herbs?' lands on the very first frame",
+   "cliffhanger": "Cuts on Lord's unanswered 'Did she prepare things no physician had prescribed?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LORD What herbs?",
+   "cliffhanger_source": "LORD Did she prepare things no physician had prescribed?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"What herbs?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana ",
+   "episode_duration_s": 174.04,
+   "global_rank": 28,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 33,
+   "start": "00:50.00",
+   "end": "01:24.50",
+   "duration_s": 34.5,
+   "score": 79.85,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.73,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Maid's 'Yes.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Lord's unanswered 'She drew something around the bed, did she not?'",
+   "why": "Works because: driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "MAID Yes.",
+   "cliffhanger_source": "LORD She drew something around the bed, did she not?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"And did she perform anything unusual?\""
+    },
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"The truth.\""
+    },
+    {
+     "name": "shock reaction",
+     "weight": 0.85,
+     "zone": "mid",
+     "beat": "The maid gasps in sheer terror, her chest heaving as tears stream."
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "The maid gasps in sheer terror, her chest heaving as tears stream."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "The maid gasps in sheer terror, her chest heaving as tears stream."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana ",
+   "episode_duration_s": 174.04,
+   "global_rank": 89,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "episode": "18",
+ "promos": [
+  {
+   "episode": 18,
+   "start": "02:25.80",
+   "end": "03:12.00",
+   "duration_s": 46.2,
+   "score": 88.31,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.728,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: 'Why would anyone do this?' lands on the very first frame",
+   "cliffhanger": "Ends on a hard cut to black right after: Dramatic hold on Alexander's grim, unyielding profile as he stares int",
+   "why": "Works because: instant pay-off in frame 1; driven by cut to black + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Why would anyone do this?",
+   "cliffhanger_source": "CAMERA Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black.",
+   "cues": [
+    {
+     "name": "cut to black",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Why would anyone do this?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face"
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Alexander...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Slow push-in on Alexander's face over Juliana's shoulder. His expression hardens into a mask of pure"
+    },
+    {
+     "name": "sudden movement",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Juliana slowly pulls back slightly from his embrace, her tear-filled blue eyes looking up into his h"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the infern",
+   "episode_duration_s": 192.0,
+   "global_rank": 11,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 18,
+   "start": "00:06.50",
+   "end": "00:28.90",
+   "duration_s": 22.4,
+   "score": 79.15,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.695,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Juliana's 'Alexander!' in the first 3 seconds",
+   "cliffhanger": "Cuts on Alexander's unanswered 'Fire.'",
+   "why": "Works because: driven by an unanswered question + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Alexander!",
+   "cliffhanger_source": "ALEXANDER Fire.",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "mid",
+     "beat": "A violent crash as the bedroom door is kicked open."
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"What happened?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Juliana sits huddled at the edge of the bed, pressing her bandaged hands against her mouth, coughing"
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Alexander...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Medium shot as Juliana swings her bare legs out of bed onto the floor, trembling with panic."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the infern",
+   "episode_duration_s": 192.0,
+   "global_rank": 94,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 18,
+   "start": "01:43.80",
+   "end": "02:34.80",
+   "duration_s": 51.0,
+   "score": 76.77,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.576,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Juliana's 'The window!' in the first 3 seconds",
+   "cliffhanger": "Cuts on Juliana's unanswered 'Alexander...'",
+   "why": "Works because: cut lands before the reveal, so viewers must press play",
+   "hook_source": "JULIANA The window!",
+   "cliffhanger_source": "JULIANA Alexander...",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Why would anyone do this?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Wide interior shot as the entire parlor collapses into an uncontrollable inferno of roaring flames."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Our home...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Loud explosion of shattering window glass and splintering wood."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the infern",
+   "episode_duration_s": 192.0,
+   "global_rank": 106,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 2
+   }
+  }
+ ]
+}

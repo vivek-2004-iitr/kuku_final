@@ -1,0 +1,197 @@
+{
+ "episode": "3",
+ "promos": [
+  {
+   "episode": 3,
+   "start": "01:24.50",
+   "end": "01:52.50",
+   "duration_s": 28.0,
+   "score": 87.64,
+   "hook_score": 1.0,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.557,
+   "per_ep_rank": 1,
+   "hook": "Opens mid-action: A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'Why are you doing this?'",
+   "why": "Works because: driven by physical confrontation; cut lands before the reveal, so viewers must press play",
+   "hook_source": "SOUND FX A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.",
+   "cliffhanger_source": "LADY JULIANA Why are you doing this?",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Are you hurt?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"I can...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal g",
+   "episode_duration_s": 145.75,
+   "global_rank": 12,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 9,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 3,
+   "start": "00:58.30",
+   "end": "01:31.60",
+   "duration_s": 33.3,
+   "score": 85.58,
+   "hook_score": 1.0,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.454,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Noble Matriarch's 'Guards! Remove her!' in the first 3 seconds",
+   "cliffhanger": "Cuts on The Bearded Stranger's unanswered 'Are you hurt?'",
+   "why": "Works because: driven by physical confrontation + an unanswered question; cut lands before the reveal, so viewers must press play",
+   "hook_source": "NOBLE MATRIARCH Guards! Remove her!",
+   "cliffhanger_source": "THE BEARDED STRANGER Are you hurt?",
+   "cues": [
+    {
+     "name": "physical confrontation",
+     "weight": 1.0,
+     "zone": "open",
+     "beat": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize h"
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Are you hurt?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "The guards tear her grip away from the pew."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"I said...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger "
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "The guards tear her grip away from the pew."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal g",
+   "episode_duration_s": 145.75,
+   "global_rank": 39,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 10,
+    "settings": 2
+   }
+  },
+  {
+   "episode": 3,
+   "start": "00:11.20",
+   "end": "00:40.40",
+   "duration_s": 29.2,
+   "score": 84.9,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.645,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Lady Juliana's \"Don't pretend you've earned anything.\" in the first 3 seconds",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'And what happens to me?'",
+   "why": "Works because: driven by a big reveal / secret + an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LADY JULIANA Don't pretend you've earned anything.",
+   "cliffhanger_source": "LADY JULIANA And what happens to me?",
+   "cues": [
+    {
+     "name": "a big reveal / secret",
+     "weight": 0.9,
+     "zone": "open",
+     "beat": "\"Don't pretend you've earned anything.\""
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"And what happens to me?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep."
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Close-up on Juliana's trembling lips, refusing to break down."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal g",
+   "episode_duration_s": 145.75,
+   "global_rank": 44,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 12,
+    "settings": 2
+   }
+  }
+ ]
+}

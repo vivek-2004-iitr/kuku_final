@@ -1,0 +1,185 @@
+{
+ "episode": "2",
+ "promos": [
+  {
+   "episode": 2,
+   "start": "00:02.80",
+   "end": "00:27.40",
+   "duration_s": 24.6,
+   "score": 88.5,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.825,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'A better choice? Is that what she is?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + emotional break + a veiled threat; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ACTION Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.",
+   "cliffhanger_source": "LADY JULIANA A better choice? Is that what she is?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"A better choice? Is that what she is?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "open",
+     "beat": "Juliana gasps softly in heartbreak, her eyes wide and brimming with tears."
+    },
+    {
+     "name": "a veiled threat",
+     "weight": 0.75,
+     "zone": "open",
+     "beat": "\"You are far too plain...\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "open",
+     "beat": "\"You are far too plain...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a tr"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Juliana gasps softly in heartbreak, her eyes wide and brimming with tears."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an",
+   "episode_duration_s": 110.0,
+   "global_rank": 10,
+   "post_first": true,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 2,
+   "start": "00:47.80",
+   "end": "01:16.40",
+   "duration_s": 28.6,
+   "score": 83.64,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.582,
+   "per_ep_rank": 2,
+   "hook": "Hard stop-hook: 'Why are you surprised, sister? Look at you.' lands on the very first frame",
+   "cliffhanger": "Cuts on Lady Juliana's unanswered 'Dignity?'",
+   "why": "Works because: instant pay-off in frame 1; driven by an unanswered question + emotional break + rising tension; cut lands before the reveal, so viewers must press play",
+   "hook_source": "LADY IN GOLD GOWN Why are you surprised, sister? Look at you.",
+   "cliffhanger_source": "LADY JULIANA Dignity?",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Dignity?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "close",
+     "beat": "Profile close-up of Juliana turning her face back toward the altar, tears still shimmering on her ch"
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Gerald needs a real lady...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Medium shot of Gerald stepping forward on the altar steps, impatiently gesturing Juliana toward the "
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Profile close-up of Juliana turning her face back toward the altar, tears still shimmering on her ch"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an",
+   "episode_duration_s": 110.0,
+   "global_rank": 55,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 11,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 2,
+   "start": "00:18.20",
+   "end": "00:42.50",
+   "duration_s": 24.3,
+   "score": 79.95,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.735,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Lady Juliana's 'You gave me your word before both our families.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Medium shot tracking in on Juliana's father as he leans firmly upon his cane, looking down coldly.",
+   "why": "Works because: cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "LADY JULIANA You gave me your word before both our families.",
+   "cliffhanger_source": "CAMERA Medium shot tracking in on Juliana's father as he leans firmly upon his cane, looking down coldly.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"A better choice? Is that what she is?\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Father...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an",
+   "episode_duration_s": 110.0,
+   "global_rank": 88,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 8,
+    "settings": 1
+   }
+  }
+ ]
+}

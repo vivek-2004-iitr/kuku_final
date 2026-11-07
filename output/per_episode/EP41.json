@@ -1,0 +1,169 @@
+{
+ "episode": "41",
+ "promos": [
+  {
+   "episode": 41,
+   "start": "01:01.00",
+   "end": "01:36.09",
+   "duration_s": 35.09,
+   "score": 80.22,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.661,
+   "per_ep_rank": 1,
+   "hook": "Stops the scroll with Catherine (O.S.) (Murmured, Cold)'s 'Still arrogant. Still standing.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into ",
+   "why": "Works because: driven by score swells to a cliff + wedding stakes + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CATHERINE (O.S.) (MURMURED, COLD) Still arrogant. Still standing.",
+   "cliffhanger_source": "CAMERA Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger.",
+   "cues": [
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into "
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"Shall we?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by te"
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "open",
+     "beat": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced\u2014until a deafening explosion sh",
+   "episode_duration_s": 96.09,
+   "global_rank": 86,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 5,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 41,
+   "start": "00:41.00",
+   "end": "01:04.00",
+   "duration_s": 23.0,
+   "score": 79.45,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.71,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Catherine (O.S.) (Derisive, Projecting)'s 'Lady Juliana Ashcroft. Look around.' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despit",
+   "why": "Works because: driven by an unanswered question; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "CATHERINE (O.S.) (DERISIVE, PROJECTING) Lady Juliana Ashcroft. Look around.",
+   "cliffhanger_source": "CAMERA Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"You needed an entire chapel to feel powerful over one chained woman?\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "mid",
+     "beat": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana"
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced\u2014until a deafening explosion sh",
+   "episode_duration_s": 96.09,
+   "global_rank": 91,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 5,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 41,
+   "start": "00:00.00",
+   "end": "00:20.00",
+   "duration_s": 20.0,
+   "score": 48.77,
+   "hook_score": 0.765,
+   "cliffhanger_score": 0.0,
+   "standalone_score": 0.717,
+   "per_ep_rank": 3,
+   "hook": "Hard stop-hook: Wide symmetrical shot looking down the candlelit, flower-strewn aisle toward the",
+   "cliffhanger": "Cuts on an unresolved beat: Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the ",
+   "why": "Works because: instant pay-off in frame 1; driven by wedding stakes; readable without prior context",
+   "hook_source": "CAMERA Wide symmetrical shot looking down the candlelit, flower-strewn aisle toward the altar where Rupert, Catherine, and the Priest stand.",
+   "cliffhanger_source": "CAMERA Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight.",
+   "cues": [
+    {
+     "name": "high-stakes fate",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Before I become Duchess of Ashburgh...\""
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"Before I become Duchess of Ashburgh...\""
+    },
+    {
+     "name": "wedding stakes",
+     "weight": 0.5,
+     "zone": "open",
+     "beat": "Wide symmetrical shot looking down the candlelit, flower-strewn aisle toward the altar where Rupert,"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced\u2014until a deafening explosion sh",
+   "episode_duration_s": 96.09,
+   "global_rank": 135,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [
+     "low cliff (0.0) \u2014 may not end unresolved"
+    ],
+    "verdict": "review",
+    "dialogue_beats": 5,
+    "settings": 1
+   }
+  }
+ ]
+}

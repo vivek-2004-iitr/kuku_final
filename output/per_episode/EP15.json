@@ -1,0 +1,161 @@
+{
+ "episode": "15",
+ "promos": [
+  {
+   "episode": 15,
+   "start": "00:50.00",
+   "end": "01:26.00",
+   "duration_s": 36.0,
+   "score": 86.05,
+   "hook_score": 0.9,
+   "cliffhanger_score": 0.95,
+   "standalone_score": 0.615,
+   "per_ep_rank": 1,
+   "hook": "Hard stop-hook: Juliana crawls forward on her elbows; fresh crimson blood seeps profusely throug",
+   "cliffhanger": "Cuts on an unresolved beat: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+   "why": "Works because: instant pay-off in frame 1; driven by score swells to a cliff; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "ACTION Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms.",
+   "cliffhanger_source": "SOUND FX Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+   "cues": [
+    {
+     "name": "score swells to a cliff",
+     "weight": 0.95,
+     "zone": "close",
+     "beat": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+    },
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "mid",
+     "beat": "\"What? You want to fight us, veteran?\""
+    },
+    {
+     "name": "emotional break",
+     "weight": 0.8,
+     "zone": "mid",
+     "beat": "Tight close-up on Juliana's mud-streaked, tear-stained face trembling in heartbreaking agony."
+    },
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "mid",
+     "beat": "\"My mother's plants...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Tight close-up on Juliana's mud-streaked, tear-stained face trembling in heartbreaking agony."
+    },
+    {
+     "name": "sudden movement",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiat"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+   "episode_duration_s": 86.0,
+   "global_rank": 34,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 5,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 15,
+   "start": "00:08.50",
+   "end": "00:34.00",
+   "duration_s": 25.5,
+   "score": 78.87,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.9,
+   "standalone_score": 0.681,
+   "per_ep_rank": 2,
+   "hook": "Stops the scroll with Juliana's 'Stop! What are you doing?!' in the first 3 seconds",
+   "cliffhanger": "Cuts on an unresolved beat: Tight close-up of Juliana's bandaged hands trembling as she tenderly gathers the soiled white flower",
+   "why": "Works because: driven by an unanswered question + rising tension; cut lands before the reveal, so viewers must press play; readable without prior context",
+   "hook_source": "JULIANA Stop! What are you doing?!",
+   "cliffhanger_source": "CAMERA Tight close-up of Juliana's bandaged hands trembling as she tenderly gathers the soiled white flowers from the puddles.",
+   "cues": [
+    {
+     "name": "an unanswered question",
+     "weight": 0.9,
+     "zone": "close",
+     "beat": "\"Months? You actually spend your days growing this filth?\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "close",
+     "beat": "Tight close-up of Juliana's bandaged hands trembling as she tenderly gathers the soiled white flower"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+   "episode_duration_s": 86.0,
+   "global_rank": 97,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 6,
+    "settings": 1
+   }
+  },
+  {
+   "episode": 15,
+   "start": "00:34.80",
+   "end": "00:55.70",
+   "duration_s": 20.9,
+   "score": 67.2,
+   "hook_score": 0.75,
+   "cliffhanger_score": 0.55,
+   "standalone_score": 0.71,
+   "per_ep_rank": 3,
+   "hook": "Stops the scroll with Juliana's 'Leave my garden alone.' in the first 3 seconds",
+   "cliffhanger": "Cuts on Juliana's unanswered \"My mother's plants...\"",
+   "why": "Works because: driven by a trailing-off line; readable without prior context",
+   "hook_source": "JULIANA Leave my garden alone.",
+   "cliffhanger_source": "JULIANA My mother's plants...",
+   "cues": [
+    {
+     "name": "a trailing-off line",
+     "weight": 0.55,
+     "zone": "close",
+     "beat": "\"My mother's plants...\""
+    },
+    {
+     "name": "rising tension",
+     "weight": 0.4,
+     "zone": "mid",
+     "beat": "Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling wi"
+    }
+   ],
+   "flags": [],
+   "copy_engine": "rules",
+   "episode_logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+   "episode_duration_s": 86.0,
+   "global_rank": 123,
+   "post_first": false,
+   "audit": {
+    "hard_ok": true,
+    "hard_violations": [],
+    "soft_flags": [],
+    "verdict": "ok",
+    "dialogue_beats": 7,
+    "settings": 1
+   }
+  }
+ ]
+}
